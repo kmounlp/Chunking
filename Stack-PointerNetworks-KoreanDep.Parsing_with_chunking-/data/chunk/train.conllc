@@ -1,0 +1,869 @@
+1	의상_서	-	의상 서	NOUN	NNG+JKB	AX	3	obl	-
+2	실내	-	실내	NOUN	NNG	NX	3	nmod	-
+3	장식품	으로_...	장식품 으로 ...	NOUN	NNG+JKB+SE	PX+EFX+SYX	0	root	-
+
+1	디자인	-	디자인	NOUN	NNG	NX	2	nmod	-
+2	세계	넓히_어	세계 넓히 어	VERB	NNG+VV+EC	PX+EFX+SYX	0	root	-
+
+1	프랑스	의	프랑스 의	PROPN	NNP+JKG	NX+JMX	3	nmod	-
+2	세계_적_이	ㄴ	세계 적 이 ㄴ	ADJ	NNG+XSN+VCP+ETM	CX+ETX	3	acl	-
+3	의상_디자이너_엠마누엘_웅가로	가	의상 디자이너 엠마누엘 웅가로 가	PROPN	NNG+NNG+NNP+NNP+JKS	NX+JKX	5	nsubj	-
+4	실내_장식_용_직물_디자이너	로	실내 장식 용 직물 디자이너 로	NOUN	NNG+NNG+XSN+NNG+NNG+JKB	NX+JKX	5	obl	-
+5	나서	었_다_.	나서 었 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	목욕_가운	부터	목욕 가운 부터	NOUN	NNG+NNG+JX	NX+JUX	4	obl	-
+2	탁자보	,	탁자보 ,	NOUN	NNG+SP	NX+SYX	4	conj	-
+3	냅킨	,	냅킨 ,	NOUN	NNG+SP	NX+SYX	4	conj	-
+4	앞치마	까지	앞치마 까지	NOUN	NNG+JX	NX+JUX	10	obl	-
+5	그	가	그 가	PRON	NP+JKS	NX+JKX	6	nsubj	-
+6	디자인_하	ㄴ	디자인 하 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	7	acl	-
+7	작품_들	에서	작품 들 에서	NOUN	NNG+XSN+JKB	NX+JKX	8	obl	-
+8	두드러지	는_것_은	두드러지 는 것 은	NOUN	VA+ETM+NNB+JX	PX+ETX	10	nsubj	-
+9	색	의	색 의	NOUN	NNG+JKG	NX+JMX	10	nmod	-
+10	조화_이	다_.	조화 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	남미_풍	의	남미 풍 의	PROPN	NNP+XSN+JKG	NX+JMX	3	nmod	-
+2	강렬_하	ㄴ	강렬 하 ㄴ	ADJ	XR+XSA+ETM	PX+ETX	3	acl	-
+3	원색_끼리	의	원색 끼리 의	NOUN	NNG+XSN+JKG	NX+JMX	4	nmod	-
+4	조화	,	조화 ,	NOUN	NNG+SP	NX+SYX	7	conj	-
+5	수채화	같이	수채화 같이	ADV	NNG+MAG	NX+JKX	6	advmod	-
+6	안온_하	ㄴ	안온 하 ㄴ	ADJ	NNG+XSA+ETM	PX+ETX	7	acl	-
+7	배색_등	-	배색 등	NOUN	NNG+NNB	NX	12	nmod	-
+8	색	의	색 의	NOUN	NNG+JKG	NX+JMX	9	nmod	-
+9	분위기	를	분위기 를	NOUN	NNG+JKO	NX+JKX	10	obj	-
+10	강조_하	는	강조 하 는	VERB	NNG+XSV+ETM	PX+ETX	11	acl	-
+11	기하학_적_무늬	,	기하학 적 무늬 ,	NOUN	NNG+XSN+NNG+SP	NX+SYX	12	conj	-
+12	꽃_무늬_디자인	이	꽃 무늬 디자인 이	NOUN	NNG+NNG+NNG+JKS	NX+JKX	14	nsubj	-
+13	주류	를	주류 를	NOUN	NNG+JKO	NX+JKX	14	obj	-
+14	이루	고_있_다_.	이루 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	엠마누엘_웅가로	는_"	엠마누엘 웅가로 는 "	PROPN	NNP+NNP+JX+SS	NX+JUX+SYX	10	nsubj	-
+2	실내_장식품	을	실내 장식품 을	NOUN	NNG+NNG+JKO	NX+JKX	3	obj	-
+3	디자인_하	ㄹ_때	디자인 하 ㄹ 때	NOUN	NNG+XSV+ETM+NNG	PX+ECX	9	obl	-
+4	옷	을	옷 을	NOUN	NNG+JKO	NX+JKX	5	obj	-
+5	만들	ㄹ	만들 ㄹ	VERB	VV+ETM	PX+ETX	6	acl	-
+6	때	와_는	때 와 는	NOUN	NNG+JKB+JX	NX+JKX	7	nsubj	-
+7	다르	ㄴ	다르 ㄴ	ADJ	VA+ETM	PX+ETX	8	acl	-
+8	해방감	을	해방감 을	NOUN	NNG+JKO	NX+JKX	9	obj	-
+9	느끼	ㄴ다_"_고	느끼 ㄴ다 " 고	VERB	VV+EC+SS+JKQ	PX+ECX	10	ccomp	-
+10	말_하	ㄴ다_.	말 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	매일_욕실	에서	매일 욕실 에서	NOUN	NNG+NNG+JKB	NX+JKX	3	obl	-
+2	1_시간_반_이상	을	1 시간 반 이상 을	NOUN	SN+NNG+NNG+NNG+JKO	NX+JKX	3	obj	-
+3	보내	ㄴ다는	보내 ㄴ다는	VERB	VV+ETM	PX+ETX	4	acl	-
+4	그	는	그 는	PRON	NP+JX	NX+JUX	11	nsubj	-
+5	체조	와	체조 와	CCONJ	NNG+JC	NX+JCX	7	conj	-
+6	텔레비전_시청	,	텔레비전 시청 ,	NOUN	NNG+NNG+SP	NX+SYX	7	conj	-
+7	식사	까지	식사 까지	NOUN	NNG+JX	NX+JUX	8	obj	-
+8	하	ㄹ_수_있_는	하 ㄹ 수 있 는	VERB	VV+ETM+NNB+VV+ETM	PX+PUX+ETX	9	acl	-
+9	욕실	이	욕실 이	NOUN	NNG+JKS	NX+JKX	10	nsubj	-
+10	나오	아야_하_ㄴ다고	나오 아야 하 ㄴ다고	VERB	VV+EC+VX+EC	PX+PUX+ECX	11	ccomp	-
+11	주장_하	ㄹ	주장 하 ㄹ	VERB	NNG+XSV+ETM	PX+ETX	0	root	-
+12	정도_이	다_.	정도 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	11	aux	-
+
+1	옷	을	옷 을	NOUN	NNG+JKO	NX+JKX	2	obj	-
+2	만들	느라	만들 느라	VERB	VV+EC	PX+ECX	5	advcl	-
+3	늘	-	늘	ADV	MAG	AX	4	advmod	-
+4	대하	는	대하 는	VERB	VV+ETM	PX+ETX	5	acl	-
+5	천	을	천 을	NOUN	NNG+JKO	NX+JKX	9	obj	-
+6	실내_용품	을	실내 용품 을	NOUN	NNG+NNG+JKO	NX+JKX	7	obj	-
+7	위하	아	위하 아	VERB	VV+EC	PX+ECX	9	advcl	-
+8	다시	-	다시	ADV	MAG	AX	9	advmod	-
+9	디자인_하	는_것_은_'	디자인 하 는 것 은 '	NOUN	NNG+XSV+ETM+NNB+JX+SS	PX+ETX+SYX	14	nsubj	-
+10	상상력	을	상상력 을	NOUN	NNG+JKO	NX+JKX	12	obj	-
+11	마음껏	-	마음껏	ADV	MAG	AX	12	advmod	-
+12	펼치	는	펼치 는	VERB	VV+ETM	PX+ETX	14	acl	-
+13	즐겁	ㄴ	즐겁 ㄴ	ADJ	VA+ETM	PX+ETX	14	acl	-
+14	놀이_'	라고	놀이 ' 라고	NOUN	NNG+SS+JKQ	NX+JKX	15	ccomp	-
+15	말_하	는	말 하 는	VERB	NNG+XSV+ETM	PX+ETX	16	acl	-
+16	그	는	그 는	PRON	NP+JX	NX+JUX	24	nsubj	-
+17	다른	-	다른	ADJ	MM	MX	18	amod	-
+18	디자이너_들	처럼	디자이너 들 처럼	NOUN	NNG+XSN+JKB	NX+JKX	23	obl	-
+19	찻잔	,	찻잔 ,	NOUN	NNG+SP	NX+SYX	20	conj	-
+20	접시_등	-	접시 등	NOUN	NNG+NNB	NX	21	nmod	-
+21	식기_디자인	까지	식기 디자인 까지	NOUN	NNG+NNG+JX	NX+JUX	23	obl	-
+22	활동_폭	을	활동 폭 을	NOUN	NNG+NNG+JKO	NX+JKX	23	obj	-
+23	넓히	어_가_ㄹ	넓히 어 가 ㄹ	VERB	VV+EC+VX+ETM	PX+PUX+ETX	24	acl	-
+24	계획_이	다_.	계획 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	안방	서	안방 서	NOUN	NNG+JKB	NX+JKX	2	obl	-
+2	더위	식히_ㄴ다	더위 식히 ㄴ다	VERB	NNG+VV+EC	PX+EFX+SYX	0	root	-
+
+1	성능_외제	에	성능 외제 에	NOUN	NNG+NNG+JKB	NX+JKX	2	obl	-
+2	손색	없_어	손색 없 어	ADJ	NNG+VA+EC	PX+EFX+SYX	0	root	-
+
+1	특히	-	특히	ADV	MAG	AX	3	advmod	-
+2	여름철_더위	를	여름철 더위 를	NOUN	NNG+NNG+JKO	NX+JKX	3	obj	-
+3	식히	는_데	식히 는 데	NOUN	VV+ETM+NNB	PX+ETX	4	obl	-
+4	최고_이	ㄴ	최고 이 ㄴ	ADJ	NNG+VCP+ETM	CX+ETX	5	acl	-
+5	빙수	를	빙수 를	NOUN	NNG+JKO	NX+JKX	6	obj	-
+6	만들	는	만들 는	VERB	VV+ETM	PX+ETX	7	acl	-
+7	기계	는	기계 는	NOUN	NNG+JX	NX+JUX	11	nsubj	-
+8	소비자_들	이	소비자 들 이	NOUN	NNG+XSN+JKS	NX+JKX	11	nsubj	-
+9	가장	-	가장	ADV	MAG	AX	11	advmod	-
+10	많이	-	많이	ADV	MAG	AX	11	advmod	-
+11	찾	고_있_는_품목_.	찾 고 있 는 품목 .	NOUN	VV+EC+VX+ETM+NNG+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	빙수_고명	으로	빙수 고명 으로	NOUN	NNG+NNG+JKB	NX+JKX	2	obl	-
+2	얹	는	얹 는	VERB	VV+ETM	PX+ETX	6	acl	-
+3	삶	은	삶 은	VERB	VV+ETM	PX+ETX	4	acl	-
+4	단팥	과	단팥 과	CCONJ	NNG+JC	NX+JCX	6	conj	-
+5	찰떡	,	찰떡 ,	NOUN	NNG+SP	NX+SYX	6	conj	-
+6	젤리_포장	도	젤리 포장 도	NOUN	NNG+NNG+JX	NX+JUX	7	nsubj	-
+7	나오	아_있_다_.	나오 아 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	플라스틱	으로	플라스틱 으로	NOUN	NNG+JKB	NX+JKX	2	obl	-
+2	만들	ㄴ	만들 ㄴ	VERB	VV+ETM	PX+ETX	3	acl	-
+3	샤베트기	는	샤베트기 는	NOUN	NNG+JX	NX+JUX	5	nsubj	-
+4	수입품	이	수입품 이	NOUN	NNG+JKS	NX+JKX	5	nsubj	-
+5	대부분_이	다_.	대부분 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	얼음	을	얼음 을	NOUN	NNG+JKO	NX+JKX	2	obj	-
+2	얼리	는	얼리 는	VERB	VV+ETM	PX+ETX	3	acl	-
+3	얼음_틀	도	얼음 틀 도	NOUN	NNG+NNG+JX	NX+JUX	6	nsubj	-
+4	하트_형_-_원형_-_타원_형_-_사각형_등	-	하트 형 - 원형 - 타원 형 - 사각형 등	NOUN	NNG+XSN+SS+NNG+SS+NNG+XSN+SS+NNG+NNB	NX	5	nmod	-
+5	갖가지_모양	이	갖가지 모양 이	NOUN	NNG+NNG+JKS	NX+JKX	6	nsubj	-
+6	나오	아_있_다_.	나오 아 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	얼음_대신	-	얼음 대신	NOUN	NNG+NNG	NX	2	obl	-
+2	쓰	는	쓰 는	VERB	VV+ETM	PX+ETX	3	acl	-
+3	아이스팩	도	아이스팩 도	NOUN	NNG+JX	NX+JUX	4	nsubj	-
+4	필수품_이	다_.	필수품 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	얼음	은	얼음 은	NOUN	NNG+JX	NX+JUX	5	nsubj	-
+2	녹	으면서	녹 으면서	VERB	VV+EC	PX+ECX	4	advcl	-
+3	물	이	물 이	NOUN	NNG+JKS	NX+JKX	4	nsubj	-
+4	생기	어	생기 어	VERB	VV+EC	PX+ECX	5	advcl	-
+5	지저분_하	아_지_는데	지저분 하 아 지 는데	VERB	XR+XSA+EC+VX+EC	PX+PUX+ECX	6	advcl	-
+6	비_하	아	비 하 아	VERB	NNG+XSV+EC	PX+ECX	16	advcl	-
+7	아이스팩	은	아이스팩 은	NOUN	NNG+JX	NX+JUX	16	nsubj	-
+8	플라스틱_통_안	에	플라스틱 통 안 에	NOUN	NNG+NNG+NNG+JKB	NX+JKX	9	obl	-
+9	들	ㄴ	들 ㄴ	VERB	VV+ETM	PX+ETX	10	acl	-
+10	내용물	이	내용물 이	NOUN	NNG+JKS	NX+JKX	12	nsubj	-
+11	얼	었_다	얼 었 다	VERB	VV+EP+EC	PX+EPX+ECX	12	advcl	-
+12	녹	았_다_하_아서	녹 았 다 하 아서	VERB	VV+EP+EC+VX+EC	PX+EPX+PUX+ECX	14	advcl	-
+13	훨씬	-	훨씬	ADV	MAG	AX	14	advmod	-
+14	깨끗_하	며	깨끗 하 며	ADJ	XR+XSA+EC	PX+ECX	16	advcl	-
+15	반_영구_적	으로	반 영구 적 으로	NOUN	NNG+NNG+XSN+JKB	NX+JKX	16	obl	-
+16	쓰	ㄹ_수_있_다_.	쓰 ㄹ 수 있 다 .	VERB	VV+ETM+NNB+VV+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	대_-_중_-	-	대 - 중 -	NOUN	NNG+SS+NNG+SS	NX	2	conj	-
+2	소_크기	가	소 크기 가	NOUN	NNG+NNG+JKS	NX+JKX	3	nsubj	-
+3	있	으며	있 으며	VERB	VV+EC	PX+ECX	8	advcl	-
+4	가격	은	가격 은	NOUN	NNG+JX	NX+JUX	8	nsubj	-
+5	국산	이	국산 이	NOUN	NNG+JKS	NX+JKX	6	nsubj	-
+6	1_천_5_백_~_2_천_5_백_원	,	1 천 5 백 ~ 2 천 5 백 원 ,	NOUN	SN+NR+SN+NR+SO+SN+NR+SN+NR+NNG+SP	NX+SYX	8	advcl	-
+7	수입품	은	수입품 은	NOUN	NNG+JX	NX+JUX	8	nsubj	-
+8	1_천_9_백_~_4_천_5_백_원_이	다_.	1 천 9 백 ~ 4 천 5 백 원 이 다 .	ADJ	SN+NR+SN+NR+SO+SN+NR+SN+NR+NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	렌즈_굴절력_-_내구_성	-	렌즈 굴절력 - 내구 성	NOUN	NNG+NNG+SS+NNG+XSN	NX	2	obj	-
+2	잘	살피_어야	잘 살피 어야	VERB	MAG+VV+EC	PX+EFX+SYX	0	root	-
+
+1	현재_시중	에	현재 시중 에	NOUN	NNG+NNG+JKB	NX+JKX	2	obl	-
+2	나오	아_있_는	나오 아 있 는	VERB	VV+EC+VX+ETM	PX+PUX+ETX	3	acl	-
+3	제품	은	제품 은	NOUN	NNG+JX	NX+JUX	11	nsubj	-
+4	도수_안경	과	도수 안경 과	CCONJ	NNG+NNG+JC	NX+JCX	5	conj	-
+5	일반_제품	이	일반 제품 이	NOUN	NNG+NNG+JKS	NX+JKX	6	nsubj	-
+6	있	고	있 고	VERB	VV+EC	PX+ECX	11	advcl	-
+7	크기	에	크기 에	NOUN	NNG+JKB	NX+JKX	8	obl	-
+8	따르	아서_는	따르 아서 는	VERB	VV+EC+JX	PX+ECX	11	advcl	-
+9	아동_용	과	아동 용 과	CCONJ	NNG+XSN+JC	NX+JCX	10	conj	-
+10	성인_용	으로	성인 용 으로	NOUN	NNG+XSN+JKB	NX+JKX	11	obl	-
+11	구분_되	ㄴ다_.	구분 되 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	수입품	은	수입품 은	NOUN	NNG+JX	NX+JUX	4	nsubj	-
+2	2_만_원	을	2 만 원 을	NOUN	SN+NR+NNG+JKO	NX+JKX	4	obj	-
+3	훨씬	-	훨씬	ADV	MAG	AX	4	advmod	-
+4	넘	는다_.	넘 는다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	수영_하	ㄹ_때	수영 하 ㄹ 때	NOUN	NNG+XSV+ETM+NNG	PX+ECX	5	obl	-
+2	눈	을	눈 을	NOUN	NNG+JKO	NX+JKX	3	obj	-
+3	보호_하	기	보호 하 기	VERB	NNG+XSV+ETN	PX+ETX	4	ccomp	-
+4	위하	아	위하 아	VERB	VV+EC	PX+ECX	5	advcl	-
+5	쓰	는	쓰 는	VERB	VV+ETM	PX+ETX	6	acl	-
+6	물안경	은	물안경 은	NOUN	NNG+JX	NX+JUX	12	nsubj	-
+7	렌즈	의	렌즈 의	NOUN	NNG+JKG	NX+JMX	8	nmod	-
+8	굴절력	과	굴절력 과	CCONJ	NNG+JC	NX+JCX	10	conj	-
+9	고무_밴드	의	고무 밴드 의	NOUN	NNG+NNG+JKG	NX+JMX	10	nmod	-
+10	내구_성	이	내구 성 이	NOUN	NNG+XSN+JKS	NX+JKX	12	nsubj	-
+11	제품_선택	의	제품 선택 의	NOUN	NNG+NNG+JKG	NX+JMX	12	nmod	-
+12	포인트_이	다_.	포인트 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	또	-	또	ADV	MAG	AX	9	advmod	-
+2	사물	이	사물 이	NOUN	NNG+JKS	NX+JKX	3	nsubj	-
+3	굴절_되	어	굴절 되 어	VERB	NNG+XSV+EC	PX+ECX	5	advcl	-
+4	제대로	-	제대로	ADV	MAG	AX	5	advmod	-
+5	보이	지_않_는	보이 지 않 는	VERB	VV+EC+VX+ETM	PX+PUX+ETX	6	acl	-
+6	제품	도	제품 도	NOUN	NNG+JX	NX+JUX	9	nsubj	-
+7	조사_대상	의	조사 대상 의	NOUN	NNG+NNG+JKG	NX+JMX	8	nmod	-
+8	20_%	나	20 % 나	NUM	SN+SW+JX	NX+JUX	9	xcomp	-
+9	되	었었_다_.	되 었었 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	따라서	-	따라서	SCONJ	MAJ	AX	14	mark	-
+2	물안경	을	물안경 을	NOUN	NNG+JKO	NX+JKX	3	obj	-
+3	사	ㄹ_때_는	사 ㄹ 때 는	NOUN	VV+ETM+NNG+JX	PX+ECX	13	obl	-
+4	직접	-	직접	ADV	MAG	AX	5	advmod	-
+5	쓰	고	쓰 고	VERB	VV+EC	PX+ECX	7	advcl	-
+6	걸음	을	걸음 을	NOUN	NNG+JKO	NX+JKX	7	obj	-
+7	걷	어	걷 어	VERB	VV+EC	PX+ECX	13	advcl	-
+8	어지럽	지_않_은지_,	어지럽 지 않 은지 ,	ADJ	VA+EC+VX+EC+SP	PX+PUX+ECX+SYX	12	advcl	-
+9	사물	이	사물 이	NOUN	NNG+JKS	NX+JKX	11	nsubj	-
+10	제대로	-	제대로	ADV	MAG	AX	11	advmod	-
+11	보이	는	보이 는	VERB	VV+ETM	PX+ETX	12	acl	-
+12	지	를	지 를	NOUN	NNB+JKO	NX+JKX	13	obj	-
+13	확인_하	는_것_이	확인 하 는 것 이	NOUN	NNG+XSV+ETM+NNB+JKS	PX+ETX	14	nsubj	-
+14	중요_하	다_.	중요 하 다 .	ADJ	NNG+XSA+EF+SF	PX+EFX+SYX	0	root	-
+
+1	소보원	의	소보원 의	PROPN	NNP+JKG	NX+JMX	2	nmod	-
+2	조사	에서	조사 에서	NOUN	NNG+JKB	NX+JKX	5	obl	-
+3	아무렇	ㄴ	아무렇 ㄴ	ADJ	VA+ETM	PX+ETX	4	acl	-
+4	문제	도	문제 도	NOUN	NNG+JX	NX+JUX	5	nsubj	-
+5	발견_되	지_않_은	발견 되 지 않 은	VERB	NNG+XSV+EC+VX+ETM	PX+PUX+ETX	6	acl	-
+6	제품	은	제품 은	NOUN	NNG+JX	NX+JUX	8	nsubj	-
+7	모두	-	모두	ADV	MAG	AX	8	advmod	-
+8	11	개_.	11 개 .	NOUN	SN+NNB+SF	PX+EFX+SYX	0	root	-
+
+1	최다_국내외	-	최다 국내외	NOUN	NNG+NNG	NX	2	nmod	-
+2	관광지	와	관광지 와	CCONJ	NNG+JC	NX+JCX	3	conj	-
+3	관광업체	를	관광업체 를	NOUN	NNG+JKO	NX+JKX	4	obj	-
+4	한_자리	에서	한 자리 에서	NOUN	MM+NNG+JKB	NX+EPX	0	root	-
+
+1	한_자리	에서	한 자리 에서	NOUN	MM+NNG+JKB	NX+JKX	2	obl	-
+2	소개_하	는	소개 하 는	VERB	NNG+XSV+ETM	PX+ETX	3	acl	-
+3	관광_교역전	이	관광 교역전 이	NOUN	NNG+NNG+JKS	NX+JKX	6	nsubj	-
+4	10_일	-	10 일	NOUN	SN+NNB	NX	6	obl	-
+5	서울_종합_전시장_(_KOEX_)_대서양관	에서	서울 종합 전시장 ( KOEX ) 대서양관 에서	NOUN	NNP+NNG+NNG+SS+SL+SS+NNG+JKB	NX+JKX	6	obl	-
+6	개막_되	었_다_.	개막 되 었 다 .	VERB	NNG+XSV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	제_1_차	-	제 1 차	NOUN	MM+SN+NNB	NX	2	nmod	-
+2	한국_관광_진흥회_및_OTF_관광_교역전	으로	한국 관광 진흥회 및 OTF 관광 교역전 으로	NOUN	NNP+NNG+NNG+MAJ+SL+NNG+NNG+JKB	NX+JKX	3	obl	-
+3	열리	는	열리 는	VERB	VV+ETM	PX+ETX	4	acl	-
+4	이번_전시회	는	이번 전시회 는	NOUN	NNG+NNG+JX	NX+JUX	10	nsubj	-
+5	43_개_나라	,	43 개 나라 ,	NOUN	SN+NNB+NNG+SP	NX+SYX	6	nmod	-
+6	6_백_여_업체	가	6 백 여 업체 가	NOUN	SN+NR+XSN+NNG+JKS	NX+JKX	7	nsubj	-
+7	참가	,	참가 ,	NOUN	NNG+SP	NX+SYX	10	advcl	-
+8	12_일	부터	12 일 부터	NOUN	SN+NNB+JX	NX+JUX	10	obl	-
+9	일반	에	일반 에	NOUN	NNG+JKB	NX+JKX	10	obl	-
+10	공개_되	ㄴ다_.	공개 되 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	11_일	-	11 일	NOUN	SN+NNB	NX	3	nmod	-
+2	오전	-	오전	NOUN	NNG	AX	3	nmod	-
+3	9_시_인터콘티넨탈_호텔	에서	9 시 인터콘티넨탈 호텔 에서	NOUN	SN+NNB+NNP+NNG+JKB	NX+JKX	5	obl	-
+4	한국일반여행업협회_주최	로	한국일반여행업협회 주최 로	NOUN	NNP+NNG+JKB	NX+JKX	5	obl	-
+5	열리	는	열리 는	VERB	VV+ETM	PX+ETX	7	acl	-
+6	제_1_차	-	제 1 차	NOUN	MM+SN+NNB	NX	7	nmod	-
+7	한국_관광_진흥회	의	한국 관광 진흥회 의	NOUN	NNP+NNG+NNG+JKG	NX+JMX	8	nmod	-
+8	개회식	이	개회식 이	NOUN	NNG+JKS	NX+JKX	9	nsubj	-
+9	있	다_.	있 다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	멕시코	,	멕시코 ,	PROPN	NNP+SP	NX+SYX	2	conj	-
+2	자메이카_등	-	자메이카 등	NOUN	NNP+NNB	NX	3	nmod	-
+3	남미_국가	도	남미 국가 도	NOUN	NNP+NNG+JX	NX+JUX	7	nsubj	-
+4	우리_나라	에서	우리 나라 에서	NOUN	NP+NNG+JKB	NX+JKX	5	obl	-
+5	열리	는	열리 는	VERB	VV+ETM	PX+ETX	6	acl	-
+6	관광전	으로_는	관광전 으로 는	NOUN	NNG+JKB+JX	NX+JKX	7	obl	-
+7	처음_참가	,	처음 참가 ,	NOUN	NNG+NNG+SP	NX+SYX	15	advcl	-
+8	해외_여행_개방_이후	-	해외 여행 개방 이후	NOUN	NNG+NNG+NNG+NNG	NX	13	obl	-
+9	우리_나라	가	우리 나라 가	NOUN	NP+NNG+JKS	NX+JKX	13	nsubj	-
+10	세계_적	으로	세계 적 으로	NOUN	NNG+XSN+JKB	NX+JKX	13	obl	-
+11	관광객_발굴	의	관광객 발굴 의	NOUN	NNG+NNG+JKG	NX+JMX	12	nmod	-
+12	황금_시장	으로	황금 시장 으로	NOUN	NNG+NNG+JKB	NX+JKX	13	obl	-
+13	여기	어_지_고_있_는	여기 어 지 고 있 는	VERB	VV+EC+VX+EC+VX+ETM	PX+PUX+ETX	14	acl	-
+14	현실	을	현실 을	NOUN	NNG+JKO	NX+JKX	15	obj	-
+15	반증_하	ㄴ다_.	반증 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	관광전	에_는	관광전 에 는	NOUN	NNG+JKB+JX	NX+JKX	31	obl	-
+2	프랑스	,	프랑스 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+3	독일	,	독일 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+4	네덜란드	,	네덜란드 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+5	영국	,	영국 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+6	이탈리아_등	-	이탈리아 등	NOUN	NNP+NNB	NX	7	nmod	-
+7	유럽_국가	를	유럽 국가 를	NOUN	NNP+NNG+JKO	NX+JKX	8	obj	-
+8	비롯	,	비롯 ,	NOUN	XR+SP	PX+SYX	13	conj	-
+9	싱가포르	,	싱가포르 ,	PROPN	NNP+SP	NX+SYX	12	conj	-
+10	말레이시아	,	말레이시아 ,	PROPN	NNP+SP	NX+SYX	12	conj	-
+11	인도네시아	,	인도네시아 ,	PROPN	NNP+SP	NX+SYX	12	conj	-
+12	홍콩_등_동남아	-	홍콩 등 동남아	PROPN	NNP+NNB+NNP	NX	13	nmod	-
+13	국가_등	-	국가 등	NOUN	NNG+NNB	NX	18	nmod	-
+14	우리_나라	에	우리 나라 에	NOUN	NP+NNG+JKB	NX+JKX	17	obl	-
+15	이미	-	이미	ADV	MAG	AX	17	advmod	-
+16	잘	-	잘	ADV	MAG	AX	17	advmod	-
+17	알리	어_지_ㄴ	알리 어 지 ㄴ	VERB	VV+EC+VX+ETM	PX+PUX+ETX	18	acl	-
+18	곳_들	이	곳 들 이	NOUN	NNG+XSN+JKS	NX+JKX	21	nsubj	-
+19	자기_특산물	과	자기 특산물 과	CCONJ	NP+NNG+JC	NX+JCX	20	conj	-
+20	명소_안내	를	명소 안내 를	NOUN	NNG+NNG+JKO	NX+JKX	21	obj	-
+21	하	고_있_으며	하 고 있 으며	VERB	VV+EC+VX+EC	PX+PUX+ECX	31	advcl	-
+22	일본	에서_는	일본 에서 는	PROPN	NNP+JKB+JX	NX+JKX	26	obl	-
+23	각	-	각	DET	MM	MX	24	det	-
+24	지방_단위	로	지방 단위 로	NOUN	NNG+NNG+JKB	NX+JKX	26	obl	-
+25	20_여_곳	에서	20 여 곳 에서	NOUN	SN+XSN+NNG+JKB	NX+JKX	26	obl	-
+26	참여	,	참여 ,	NOUN	NNG+SP	NX+SYX	31	obl	-
+27	치열_하	ㄴ	치열 하 ㄴ	ADJ	NNG+XSA+ETM	PX+ETX	30	acl	-
+28	'_관광객	-	' 관광객	NOUN	SS+NNG	NX	29	obj	-
+29	부르	기	부르 기	VERB	VV+ETN	PX+ETX	30	acl	-
+30	'_경쟁	을	' 경쟁 을	NOUN	SS+NNG+JKO	NX+JKX	31	obj	-
+31	벌이	ㄴ다_.	벌이 ㄴ다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	케냐	,	케냐 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+2	이집트	,	이집트 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+3	베트남	,	베트남 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+4	스리랑카	,	스리랑카 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+5	모로코	,	모로코 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+6	몽골_등	-	몽골 등	NOUN	NNP+NNB	NX	11	nmod	-
+7	우리_나라_사람_들	이	우리 나라 사람 들 이	NOUN	NP+NNG+NNG+XSN+JKS	NX+JKX	10	nsubj	-
+8	개인_적	으로_는	개인 적 으로 는	NOUN	NNG+XSN+JKB+JX	NX+JKX	10	obl	-
+9	많이	-	많이	ADV	MAG	AX	10	advmod	-
+10	가	지_않_는	가 지 않 는	VERB	VV+EC+VX+ETM	PX+PUX+ETX	11	acl	-
+11	나라	에서_도	나라 에서 도	NOUN	NNG+JKB+JX	NX+JKX	16	obl	-
+12	독립_되	ㄴ	독립 되 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	13	acl	-
+13	부스	를	부스 를	NOUN	NNG+JKO	NX+JKX	14	obj	-
+14	차지_하	고_'	차지 하 고 '	VERB	NNG+XSV+EC+SS	PX+ECX	16	advcl	-
+15	자기_소개_'	에	자기 소개 ' 에	NOUN	NP+NNG+SS+JKB	NX+JKX	16	obl	-
+16	열심_이	다_.	열심 이 다 .	ADJ	NNG+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	세계_여러_나라	의	세계 여러 나라 의	NOUN	NNG+MM+NNG+JKG	NX+JMX	2	nmod	-
+2	여행_-_관광업_계_인사	가	여행 - 관광업 계 인사 가	NOUN	NNG+SS+NNG+XSN+NNG+JKS	NX+JKX	3	nsubj	-
+3	참관_하	ㄹ	참관 하 ㄹ	VERB	NNG+XSV+ETM	PX+ETX	4	acl	-
+4	이번_관광전	은	이번 관광전 은	NOUN	NNG+NNG+JX	NX+JUX	12	nsubj	-
+5	그러나	-	그러나	SCONJ	MAJ	AX	12	mark	-
+6	한국_시장	을	한국 시장 을	NOUN	NNP+NNG+JKO	NX+JKX	9	obj	-
+7	외국	에	외국 에	NOUN	NNG+JKB	NX+JKX	9	obl	-
+8	널리	-	널리	ADV	MAG	AX	9	advmod	-
+9	알리	ㄴ다는	알리 ㄴ다는	VERB	VV+ETM	PX+ETX	10	acl	-
+10	개최_의도	와_는	개최 의도 와 는	NOUN	NNG+NNG+JKB+JX	NX+JKX	12	obl	-
+11	거리	가	거리 가	NOUN	NNG+JKS	NX+JKX	12	nsubj	-
+12	멀	ㄴ_것_으로_보이_ㄴ다_.	멀 ㄴ 것 으로 보이 ㄴ다 .	VERB	VA+ETM+NNB+JKB+VV+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	우선	-	우선	ADV	MAG	AX	12	advmod	-
+2	국내_참가	가	국내 참가 가	NOUN	NNG+NNG+JKS	NX+JKX	4	nsubj	-
+3	너무	-	너무	ADV	MAG	AX	4	advmod	-
+4	적	고	적 고	ADJ	VA+EC	PX+ECX	10	advcl	-
+5	지방_자치_단체_들	의	지방 자치 단체 들 의	NOUN	NNG+NNG+NNG+XSN+JKG	NX+JMX	6	nmod	-
+6	관심	이	관심 이	NOUN	NNG+JKS	NX+JKX	10	nsubj	-
+7	외국	에	외국 에	NOUN	NNG+JKB	NX+JKX	8	obl	-
+8	비_하	아	비 하 아	VERB	NNG+XSV+EC	PX+ECX	10	advcl	-
+9	훨씬	-	훨씬	ADV	MAG	AX	10	advmod	-
+10	떨어지	는_것_이	떨어지 는 것 이	NOUN	VV+ETM+NNB+JKS	PX+ETX	12	nsubj	-
+11	주원인	으로	주원인 으로	NOUN	NNG+JKB	NX+JKX	12	obl	-
+12	지적_되	고_있_다_.	지적 되 고 있 다 .	VERB	NNG+XSV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	전시_코너	의	전시 코너 의	NOUN	NNG+NNG+JKG	NX+JMX	2	nmod	-
+2	80_%	를	80 % 를	NUM	SN+SW+JKO	NX+JKX	5	obj	-
+3	외국_관광지	,	외국 관광지 ,	NOUN	NNG+NNG+SP	NX+SYX	4	nmod	-
+4	관광_업체	가	관광 업체 가	NOUN	NNG+NNG+JKS	NX+JKX	5	nsubj	-
+5	점유_하	고_있_으며	점유 하 고 있 으며	VERB	NNG+XSV+EC+VX+EC	PX+PUX+ECX	15	advcl	-
+6	특히	-	특히	ADV	MAG	AX	15	advmod	-
+7	정부_관광국	과	정부 관광국 과	CCONJ	NNG+NNG+JC	NX+JCX	8	conj	-
+8	지역_관광_협회	가	지역 관광 협회 가	NOUN	NNG+NNG+NNG+JKS	NX+JKX	15	nsubj	-
+9	전체_코너	의	전체 코너 의	NOUN	NNG+NNG+JKG	NX+JMX	10	nmod	-
+10	35_%	를	35 % 를	NUM	SN+SW+JKO	NX+JKX	11	obj	-
+11	차지	,	차지 ,	NOUN	NNG+SP	NX+SYX	15	advcl	-
+12	한국_관광객_들	을	한국 관광객 들 을	NOUN	NNP+NNG+XSN+JKO	NX+JKX	15	obj	-
+13	'	직접	' 직접	ADV	SS+MAG	PX+ECX	14	advmod	-
+14	홍보_'	로	홍보 ' 로	NOUN	NNG+SS+JKB	NX+JKX	15	obl	-
+15	불러들이	ㄴ다_.	불러들이 ㄴ다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	우리_나라	에서	우리 나라 에서	NOUN	NP+NNG+JKB	NX+JKX	2	obl	-
+2	처음	으로	처음 으로	NOUN	NNG+JKB	NX+JKX	4	obl	-
+3	아스팔트_포장_상설_자동차_경기장	이	아스팔트 포장 상설 자동차 경기장 이	NOUN	NNG+NNG+NNG+NNG+NNG+JKS	NX+JKX	4	nsubj	-
+4	생기	ㄴ다_.	생기 ㄴ다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	용인_자연농원	은	용인 자연농원 은	PROPN	NNP+NNP+JX	NX+JUX	10	nsubj	-
+2	자연농원_입구	에	자연농원 입구 에	NOUN	NNP+NNG+JKB	NX+JKX	10	obl	-
+3	최고_주행	-	최고 주행	NOUN	NNG+NNG	NX	4	nmod	-
+4	속도_시속_2_백_㎞	를	속도 시속 2 백 ㎞ 를	NUM	NNG+NNG+SN+NR+SW+JKO	NX+JKX	5	obj	-
+5	내	ㄹ_수_있_는	내 ㄹ 수 있 는	VERB	VV+ETM+NNB+VV+ETM	PX+PUX+ETX	7	acl	-
+6	2_천_2_백_30_m	의	2 천 2 백 30 m 의	NOUN	SN+NR+SN+NR+SN+SL+JKG	NX+JMX	7	nmod	-
+7	아스팔트_포장_'_모터_파크_'	를	아스팔트 포장 ' 모터 파크 ' 를	NOUN	NNG+NNG+SS+NNG+NNG+SS+JKO	NX+JKX	10	obj	-
+8	만들	어_,	만들 어 ,	VERB	VV+EC+SP	PX+ECX+SYX	10	advcl	-
+9	상설_경기장	으로	상설 경기장 으로	NOUN	NNG+NNG+JKB	NX+JKX	10	obl	-
+10	운영_하	ㄴ다_.	운영 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	오	는	오 는	VERB	VV+ETM	PX+ETX	2	acl	-
+2	9_월	-	9 월	NOUN	SN+NNB	NX	3	obl	-
+3	개장_하	ㄹ	개장 하 ㄹ	VERB	NNG+XSV+ETM	PX+ETX	4	acl	-
+4	모터파크	는	모터파크 는	PROPN	NNP+JX	NX+JUX	9	nsubj	-
+5	속도_경주_(_레이스_)	와	속도 경주 ( 레이스 ) 와	CCONJ	NNG+NNG+SS+NNG+SS+JC	NX+JCX	6	conj	-
+6	장애물_경주_(_짐카나_)	를	장애물 경주 ( 짐카나 ) 를	NOUN	NNG+NNG+SS+NNG+SS+JKO	NX+JKX	7	obj	-
+7	하	ㄹ_수_있_는	하 ㄹ 수 있 는	VERB	VV+ETM+NNB+VV+ETM	PX+PUX+ETX	8	acl	-
+8	시설	을	시설 을	NOUN	NNG+JKO	NX+JKX	9	obj	-
+9	갖추	고_있_다_.	갖추 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	82_년	에_는	82 년 에 는	NOUN	SN+NNB+JKB+JX	NX+JKX	3	obl	-
+2	한_차례	-	한 차례	NOUN	MM+NNG	NX	3	obl	-
+3	열리	었_던	열리 었 던	VERB	VV+EP+ETM	PX+EPX+ETX	4	acl	-
+4	자동차_경주_대회	가	자동차 경주 대회 가	NOUN	NNG+NNG+NNG+JKS	NX+JKX	8	nsubj	-
+5	92_년_한_해_동안	은	92 년 한 해 동안 은	NOUN	SN+NNB+MM+NNG+NNG+JX	NX+JUX	8	obl	-
+6	8_개	나	8 개 나	NOUN	SN+NNB+JX	NX+JUX	8	nsubj	-
+7	잇달	아	잇달 아	VERB	VV+EC	PX+ECX	8	advcl	-
+8	열리	ㄹ	열리 ㄹ	VERB	VV+ETM	PX+ETX	9	acl	-
+9	정도	로	정도 로	NOUN	NNG+JKB	NX+JKX	11	obl	-
+10	자동차_경주_인구	도	자동차 경주 인구 도	NOUN	NNG+NNG+NNG+JX	NX+JUX	11	nsubj	-
+11	늘	었_습니다_._"	늘 었 습니다 . "	VERB	VV+EP+EF+SF+SS	PX+EPX+EFX+SYX	0	root	-
+
+1	자연농원_모터파크	의	자연농원 모터파크 의	PROPN	NNP+NNP+JKG	NX+JMX	2	nmod	-
+2	구조	는	구조 는	NOUN	NNG+JX	NX+JUX	6	nsubj	-
+3	'_서킷_(_CIRCUIT_)_'	이라고	' 서킷 ( CIRCUIT ) ' 이라고	NOUN	SS+NNG+SS+SL+SS+SS+JKQ	NX+JKX	4	obl	-
+4	불리	는	불리 는	VERB	VV+ETM	PX+ETX	6	acl	-
+5	원형	-	원형	NOUN	NNG	NX	6	nmod	-
+6	경주	코스_.	경주 코스 .	NOUN	NNG+NNG+SF	PX+EFX+SYX	0	root	-
+
+1	서킷_경주장	은	서킷 경주장 은	NOUN	NNG+NNG+JX	NX+JUX	9	nsubj	-
+2	코스_길이	가	코스 길이 가	NOUN	NNG+NNG+JKS	NX+JKX	3	nsubj	-
+3	2_천_m_안팎_이	ㄴ	2 천 m 안팎 이 ㄴ	ADJ	SN+NR+SL+NNG+VCP+ETM	CX+ETX	4	acl	-
+4	경우	는	경우 는	NOUN	NNG+JX	NX+JUX	5	obl	-
+5	국내_용	으로_,	국내 용 으로 ,	NOUN	NNG+XSN+JKB+SP	NX+JKX+SYX	9	obl	-
+6	3_천_m_이상_이	ㄴ	3 천 m 이상 이 ㄴ	ADJ	SN+NR+SL+NNG+VCP+ETM	CX+ETX	7	acl	-
+7	경우	는	경우 는	NOUN	NNG+JX	NX+JUX	8	obl	-
+8	국제_대회_용	으로	국제 대회 용 으로	NOUN	NNG+NNG+XSN+JKB	NX+JKX	9	obl	-
+9	분류_되	고_있_다_.	분류 되 고 있 다 .	VERB	NNG+XSV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	우리_나라	의	우리 나라 의	NOUN	NP+NNG+JKG	NX+JMX	2	nmod	-
+2	자동차_경주_인구	는	자동차 경주 인구 는	NOUN	NNG+NNG+NNG+JX	NX+JUX	8	nsubj	-
+3	한국자동차협회	에	한국자동차협회 에	PROPN	NNP+JKB	NX+JKX	4	obl	-
+4	등록_되	ㄴ	등록 되 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	5	acl	-
+5	선수	가	선수 가	NOUN	NNG+JKS	NX+JKX	6	nsubj	-
+6	4_백_여_명	,	4 백 여 명 ,	NOUN	SN+NR+XSN+NNB+SP	NX+SYX	8	conj	-
+7	아마추어_애호가_회원	이	아마추어 애호가 회원 이	NOUN	NNG+NNG+NNG+JKS	NX+JKX	8	nsubj	-
+8	1_천_여_명	으로_,	1 천 여 명 으로 ,	NOUN	SN+NR+XSN+NNB+JKB+SP	NX+JKX+SYX	11	conj	-
+9	아직	-	아직	ADV	MAG	AX	11	advmod	-
+10	프로_선수	는	프로 선수 는	NOUN	NNG+NNG+JX	NX+JUX	11	nsubj	-
+11	없	는_실정_.	없 는 실정 .	NOUN	VA+ETM+NNG+SF	PX+ETX+EFX+SYX	0	root	-
+
+1	레이스_선수_자격	을	레이스 선수 자격 을	NOUN	NNG+NNG+NNG+JKO	NX+JKX	2	obj	-
+2	따	ㄴ	따 ㄴ	VERB	VV+ETM	PX+ETX	3	acl	-
+3	사람	은	사람 은	NOUN	NNG+JX	NX+JUX	4	nsubj	-
+4	없	지만_,	없 지만 ,	ADJ	VA+EC+SP	PX+ECX+SYX	12	advcl	-
+5	국제자동차연맹	에	국제자동차연맹 에	PROPN	NNP+JKB	NX+JKX	7	obl	-
+6	랠리_선수	로	랠리 선수 로	NOUN	NNG+NNG+JKB	NX+JKX	7	obl	-
+7	등록_되	ㄴ	등록 되 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	8	acl	-
+8	사람	은	사람 은	NOUN	NNG+JX	NX+JUX	12	nsubj	-
+9	4_~_5_명	으로_,	4 ~ 5 명 으로 ,	NOUN	SN+SO+SN+NNB+JKB+SP	NX+JKX+SYX	12	obl	-
+10	파리_~_다카르_랠리	,	파리 ~ 다카르 랠리 ,	NOUN	NNP+SO+NNP+NNG+SP	NX+SYX	11	conj	-
+11	파리_~_북경_랠리	에	파리 ~ 북경 랠리 에	NOUN	NNP+SO+NNP+NNG+JKB	NX+JKX	12	obl	-
+12	참가_하	기_도_하_았_다_.	참가 하 기 도 하 았 다 .	VERB	NNG+XSV+ETN+JX+VX+EP+EF+SF	PX+PUX+EPX+EFX+SYX	0	root	-
+
+1	넉넉_하	ㄴ	넉넉 하 ㄴ	ADJ	XR+XSA+ETM	PX+ETX	2	acl	-
+2	블라우스_등	-	블라우스 등	NOUN	NNG+NNB	NX	3	nmod	-
+3	출근	용_무난	출근 용 무난	NOUN	NNG+XSN+XR	PX+EFX+SYX	0	root	-
+
+1	임부복	이	임부복 이	NOUN	NNG+JKS	NX+JKX	2	nsubj	-
+2	달라지	고_있_다_.	달라지 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	여성_들	이	여성 들 이	NOUN	NNG+XSN+JKS	NX+JKX	5	nsubj	-
+2	결혼_후	에_도	결혼 후 에 도	NOUN	NNG+NNG+JKB+JX	NX+JKX	5	obl	-
+3	자기_일	을	자기 일 을	NOUN	NP+NNG+JKO	NX+JKX	5	obj	-
+4	계속	-	계속	ADV	MAG	AX	5	advmod	-
+5	갖	는_것_이	갖 는 것 이	NOUN	VV+ETM+NNB+JKS	PX+ETX	6	nsubj	-
+6	일반_화_되	면서_,	일반 화 되 면서 ,	VERB	NNG+XSN+XSV+EC+SP	PX+ECX+SYX	10	advcl	-
+7	출근_용_정장_스타일	의	출근 용 정장 스타일 의	NOUN	NNG+XSN+NNG+NNG+JKG	NX+JMX	8	nmod	-
+8	임부복	이	임부복 이	NOUN	NNG+JKS	NX+JKX	10	nsubj	-
+9	많이	-	많이	ADV	MAG	AX	10	advmod	-
+10	나오	고_있_다_.	나오 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	옷	이	옷 이	NOUN	NNG+JKS	NX+JKX	2	nsubj	-
+2	가볍	어_지_는	가볍 어 지 는	VERB	VA+EC+VX+ETM	PX+PUX+ETX	3	acl	-
+3	여름	은	여름 은	NOUN	NNG+JX	NX+JUX	8	nsubj	-
+4	몸	의	몸 의	NOUN	NNG+JKG	NX+JMX	5	nmod	-
+5	변화	가	변화 가	NOUN	NNG+JKS	NX+JKX	7	nsubj	-
+6	두드러지	게	두드러지 게	ADJ	VA+EC	PX+ECX	7	advcl	-
+7	드러나	지_않_도록_하_는_것_이	드러나 지 않 도록 하 는 것 이	NOUN	VV+EC+VX+EC+VX+ETM+NNB+JKS	PX+PUX+ETX	8	nsubj	-
+8	어렵	ㄴ_계절_.	어렵 ㄴ 계절 .	NOUN	VA+ETM+NNG+SF	PX+ETX+EFX+SYX	0	root	-
+
+1	임부	는	임부 는	NOUN	NNG+JX	NX+JUX	12	nsubj	-
+2	몸_움직임	이	몸 움직임 이	NOUN	NNG+NNG+JKS	NX+JKX	3	nsubj	-
+3	느리	어	느리 어	ADJ	VA+EC	PX+ECX	6	advcl	-
+4	자칫	-	자칫	ADV	MAG	AX	6	advmod	-
+5	둔하	아	둔하 아	ADJ	VA+EC	PX+ECX	6	advcl	-
+6	보이	ㄹ_수_있_으므로	보이 ㄹ 수 있 으므로	VERB	VV+ETM+NNB+VV+EC	PX+PUX+ECX	12	advcl	-
+7	특히	-	특히	ADV	MAG	AX	8	advmod	-
+8	직장	에서_는	직장 에서 는	NOUN	NNG+JKB+JX	NX+JKX	12	obl	-
+9	경쾌_하	ㄴ	경쾌 하 ㄴ	ADJ	XR+XSA+ETM	PX+ETX	10	acl	-
+10	분위기	를	분위기 를	NOUN	NNG+JKO	NX+JKX	11	obj	-
+11	내	는_것_이	내 는 것 이	NOUN	VV+ETM+NNB+JKS	PX+ETX	12	nsubj	-
+12	중요_하	다_.	중요 하 다 .	ADJ	NNG+XSA+EF+SF	PX+EFX+SYX	0	root	-
+
+1	옷_색깔	은	옷 색깔 은	NOUN	NNG+NNG+JX	NX+JUX	8	nsubj	-
+2	파스텔_조	나	파스텔 조 나	CCONJ	NNG+NNB+JC	NX+JCX	4	conj	-
+3	무늬	가	무늬 가	NOUN	NNG+JKS	NX+JKX	4	nsubj	-
+4	현란_하	ㄴ_것_은	현란 하 ㄴ 것 은	NOUN	NNG+XSA+ETM+NNB+JX	PX+ETX	8	nsubj	-
+5	몸	을	몸 을	NOUN	NNG+JKO	NX+JKX	8	obj	-
+6	더	-	더	ADV	MAG	AX	7	advmod	-
+7	크	게	크 게	ADJ	VA+EC	PX+ECX	8	advcl	-
+8	보이	게_하_므로	보이 게 하 므로	VERB	VV+EC+VX+EC	PX+PUX+ECX	21	advcl	-
+9	흰색	과	흰색 과	CCONJ	NNG+JC	NX+JCX	12	conj	-
+10	감청_색	,	감청 색 ,	NOUN	NNG+NNG+SP	NX+SYX	12	conj	-
+11	파랑	,	파랑 ,	NOUN	NNG+SP	NX+SYX	12	conj	-
+12	빨강_등	-	빨강 등	NOUN	NNG+NNB	NX	14	nmod	-
+13	선명_하	ㄴ	선명 하 ㄴ	ADJ	NNG+XSA+ETM	PX+ETX	14	acl	-
+14	색깔	에	색깔 에	NOUN	NNG+JKB	NX+JKX	21	obl	-
+15	무늬	도	무늬 도	NOUN	NNG+JX	NX+JUX	21	nsubj	-
+16	기하학_적_이	ㄴ	기하학 적 이 ㄴ	ADJ	NNG+XSN+VCP+ETM	CX+ETX	18	acl	-
+17	단순_하	ㄴ	단순 하 ㄴ	ADJ	NNG+XSA+ETM	PX+ETX	18	acl	-
+18	선	이나	선 이나	CCONJ	NNG+JC	NX+JCX	20	conj	-
+19	잘	ㄴ	잘 ㄴ	ADJ	VA+ETM	PX+ETX	20	acl	-
+20	물방울_무늬	가	물방울 무늬 가	NOUN	NNG+NNG+JKS	NX+JKX	21	nsubj	-
+21	알맞	다_.	알맞 다 .	ADJ	VA+EF+SF	PX+EFX+SYX	0	root	-
+
+1	구두	는	구두 는	NOUN	NNG+JX	NX+JUX	5	nsubj	-
+2	굽이_3_~_4_㎝_정도	가	굽이 3 ~ 4 ㎝ 정도 가	NOUN	NNG+SN+SO+SN+SW+NNG+JKS	NX+JKX	5	nsubj	-
+3	속도감	-	속도감	NOUN	NNG	NX	4	nsubj	-
+4	있	고	있 고	VERB	VV+EC	PX+ECX	5	advcl	-
+5	안전_하	ㄴ_높이_.	안전 하 ㄴ 높이 .	NOUN	NNG+XSA+ETM+NNG+SF	PX+ETX+EFX+SYX	0	root	-
+
+1	더	-	더	ADV	MAG	AX	2	advmod	-
+2	높	은_것_은	높 은 것 은	NOUN	VA+ETM+NNB+JX	PX+ETX	7	nsubj	-
+3	발목	과	발목 과	CCONJ	NNG+JC	NX+JCX	4	conj	-
+4	무릎	에	무릎 에	NOUN	NNG+JKB	NX+JKX	6	obl	-
+5	무리	를	무리 를	NOUN	NNG+JKO	NX+JKX	6	obj	-
+6	주	ㄹ_수_있_으므로	주 ㄹ 수 있 으므로	VERB	VV+ETM+NNB+VV+EC	PX+PUX+ECX	7	advcl	-
+7	주의_하	아야_하_ㄴ다_.	주의 하 아야 하 ㄴ다 .	VERB	NNG+XSV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	요즘	은	요즘 은	NOUN	NNG+JX	NX+JUX	4	obl	-
+2	임부_용_속옷	도	임부 용 속옷 도	NOUN	NNG+XSN+NNG+JX	NX+JUX	4	nsubj	-
+3	다양_하	게	다양 하 게	ADJ	NNG+XSA+EC	PX+ECX	4	advcl	-
+4	나오	고_있_다_.	나오 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	거들	은	거들 은	NOUN	NNG+JX	NX+JUX	15	nsubj	-
+2	배_부분	을	배 부분 을	NOUN	NNG+NNG+JKO	NX+JKX	4	obj	-
+3	둥글	게	둥글 게	ADJ	VA+EC	PX+ECX	4	advcl	-
+4	받치	어_주_는	받치 어 주 는	VERB	VV+EC+VX+ETM	PX+PUX+ETX	5	acl	-
+5	덮개	가	덮개 가	NOUN	NNG+JKS	NX+JKX	8	nsubj	-
+6	하나	-	하나	NUM	NR	NX	8	nsubj	-
+7	더	-	더	ADV	MAG	AX	8	advmod	-
+8	있	는	있 는	VERB	VV+ETM	PX+ETX	9	acl	-
+9	임부_전용	과_,	임부 전용 과 ,	CCONJ	NNG+NNG+JC+SP	NX+JCX+SYX	14	conj	-
+10	출산_후	에_도	출산 후 에 도	NOUN	NNG+NNG+JKB+JX	NX+JKX	13	obl	-
+11	몸매_보정_용	으로	몸매 보정 용 으로	NOUN	NNG+NNG+XSN+JKB	NX+JKX	13	obl	-
+12	입	을_수	입 을 수	NOUN	NNG+JKO+NNB	NX+JKX+SYX	13	nsubj	-
+13	있	는	있 는	VERB	VV+ETM	PX+ETX	14	acl	-
+14	웨이스트_니퍼_형_거들_두_종류	가	웨이스트 니퍼 형 거들 두 종류 가	NOUN	NNG+NNG+XSN+NNG+MM+NNG+JKS	NX+JKX	15	nsubj	-
+15	있	다_.	있 다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	임부_용_스타킹	도	임부 용 스타킹 도	NOUN	NNG+XSN+NNG+JX	NX+JUX	2	nsubj	-
+2	나오	아_있_으나	나오 아 있 으나	VERB	VV+EC+VX+EC	PX+PUX+ECX	4	advcl	-
+3	국산	은	국산 은	NOUN	NNG+JX	NX+JUX	4	nsubj	-
+4	없	고	없 고	ADJ	VA+EC	PX+ECX	5	advcl	-
+5	미국_산_수입품_뿐_이	다_.	미국 산 수입품 뿐 이 다 .	ADJ	NNP+XSN+NNG+NNB+VCP+EF+SF	CX+EFX+SYX	0	root	-
+
+1	의상_디자이너_앙드레김_씨	가	의상 디자이너 앙드레김 씨 가	NOUN	NNG+NNG+NNP+NNB+JKS	NX+JKX	7	nsubj	-
+2	중국_올림픽_위원회_초청	으로	중국 올림픽 위원회 초청 으로	NOUN	NNP+NNG+NNG+NNG+JKB	NX+JKX	7	obl	-
+3	12_일	부터	12 일 부터	NOUN	SN+NNB+JX	NX+JUX	4	obl	-
+4	14_일	까지	14 일 까지	NOUN	SN+NNB+JX	NX+JUX	7	obl	-
+5	매일_저녁_7_시_북경_인터내셔널_컨벤션_센터	에서_'	매일 저녁 7 시 북경 인터내셔널 컨벤션 센터 에서 '	NOUN	NNG+NNG+SN+NNB+NNP+NNG+NNG+NNG+JKB+SS	NX+JKX	7	obl	-
+6	1994_년_앙드레김_스페셜_컬렉션_'	을	1994 년 앙드레김 스페셜 컬렉션 ' 을	NOUN	SN+NNB+NNP+NNG+NNG+SS+JKO	NX+JKX	7	obj	-
+7	열	ㄴ다_.	열 ㄴ다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	이번_패션쇼	에	이번 패션쇼 에	NOUN	NNG+NNG+JKB	NX+JKX	2	obl	-
+2	나오	는	나오 는	VERB	VV+ETM	PX+ETX	3	acl	-
+3	작품	은	작품 은	NOUN	NNG+JX	NX+JUX	6	nsubj	-
+4	투피스	와	투피스 와	CCONJ	NNG+JC	NX+JCX	5	conj	-
+5	이브닝_드레스_등	-	이브닝 드레스 등	NOUN	NNG+NNG+NNB	NX	6	nmod	-
+6	2	백_여_점	2 백 여 점	NOUN	SN+NR+XSN+NNB	PX+EFX+SYX	0	root	-
+
+1	앙드레김_씨	는_"	앙드레김 씨 는 "	NOUN	NNP+NNB+JX+SS	NX+JUX+SYX	16	nsubj	-
+2	중국_유적지_곳곳	을	중국 유적지 곳곳 을	NOUN	NNP+NNG+NNG+JKO	NX+JKX	3	obj	-
+3	돌	아_보_고	돌 아 보 고	VERB	VV+EC+VX+EC	PX+PUX+ECX	4	advcl	-
+4	느끼	ㄴ	느끼 ㄴ	VERB	VV+ETM	PX+ETX	9	acl	-
+5	고대_문명	의	고대 문명 의	NOUN	NNG+NNG+JKG	NX+JMX	9	nmod	-
+6	기품	-	기품	NOUN	NNG	NX	7	nsubj	-
+7	있	고	있 고	VERB	VV+EC	PX+ECX	8	advcl	-
+8	웅장_하	ㄴ	웅장 하 ㄴ	ADJ	XR+XSA+ETM	PX+ETX	9	acl	-
+9	모습	과	모습 과	CCONJ	NNG+JC	NX+JCX	13	conj	-
+10	21_세기	를	21 세기 를	NOUN	SN+NNG+JKO	NX+JKX	11	obj	-
+11	향하	ㄴ	향하 ㄴ	VERB	VV+ETM	PX+ETX	13	acl	-
+12	세계인	의	세계인 의	NOUN	NNG+JKG	NX+JMX	13	nmod	-
+13	화합	을	화합 을	NOUN	NNG+JKO	NX+JKX	15	obj	-
+14	작품	으로	작품 으로	NOUN	NNG+JKB	NX+JKX	15	obl	-
+15	형상_화_하	려고_하_았_다_"_고	형상 화 하 려고 하 았 다 " 고	VERB	NNG+XSN+XSV+EC+VX+EP+EC+SS+JKQ	PX+PUX+EPX+ECX	16	ccomp	-
+16	말_하	ㄴ다_.	말 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	황금색	,	황금색 ,	NOUN	NNG+SP	NX+SYX	3	conj	-
+2	연두	,	연두 ,	NOUN	NNG+SP	NX+SYX	3	conj	-
+3	귤색_등	-	귤색 등	NOUN	NNG+NNB	NX	5	nmod	-
+4	화려_하	ㄴ	화려 하 ㄴ	ADJ	XR+XSA+ETM	PX+ETX	5	acl	-
+5	색	을	색 을	NOUN	NNG+JKO	NX+JKX	7	obj	-
+6	주로	-	주로	ADV	MAG	AX	7	advmod	-
+7	사용_하	고	사용 하 고	VERB	NNG+XSV+EC	PX+ECX	15	advcl	-
+8	여러_개	의	여러 개 의	NOUN	MM+NNB+JKG	NX+JMX	9	nmod	-
+9	가운	을	가운 을	NOUN	NNG+JKO	NX+JKX	11	obj	-
+10	겹겹이	-	겹겹이	ADV	MAG	NX	11	advmod	-
+11	입	는	입 는	VERB	VV+ETM	PX+ETX	12	acl	-
+12	파티_의상_등	-	파티 의상 등	NOUN	NNG+NNG+NNB	NX	15	obl	-
+13	색다르	ㄴ	색다르 ㄴ	ADJ	VA+ETM	PX+ETX	14	acl	-
+14	시도	를	시도 를	NOUN	NNG+JKO	NX+JKX	15	obj	-
+15	하	았_다는_것_이_다_.	하 았 다는 것 이 다 .	VERB	VV+EP+ETM+NNB+VCP+EF+SF	PX+EPX+PUX+EFX+SYX	0	root	-
+
+1	우리_사회	의	우리 사회 의	NOUN	NP+NNG+JKG	NX+JMX	2	nmod	-
+2	여성_범죄_성격	이	여성 범죄 성격 이	NOUN	NNG+NNG+NNG+JKS	NX+JKX	4	nsubj	-
+3	많이	-	많이	ADV	MAG	AX	4	advmod	-
+4	변하	고_있_다_.	변하 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	지나	ㄴ	지나 ㄴ	VERB	VV+ETM	PX+ETX	2	acl	-
+2	65_년	에	65 년 에	NOUN	SN+NNB+JKB	NX+JKX	3	obl	-
+3	비_하	아	비 하 아	VERB	NNG+XSV+EC	PX+ECX	6	advcl	-
+4	도둑	은	도둑 은	NOUN	NNG+JX	NX+JUX	6	nsubj	-
+5	절반_이하	로	절반 이하 로	NOUN	NNG+NNG+JKB	NX+JKX	6	obl	-
+6	줄	ㄴ_데	줄 ㄴ 데	NOUN	VV+ETM+NNB	PX+ECX	7	obl	-
+7	반하	아	반하 아	VERB	VV+EC	PX+ECX	15	advcl	-
+8	사기	는	사기 는	NOUN	NNG+JX	NX+JUX	9	nsubj	-
+9	7_배	,	7 배 ,	NOUN	SN+NNG+SP	NX+SYX	12	advcl	-
+10	배임_문서_위조	는	배임 문서 위조 는	NOUN	NNG+NNG+NNG+JX	NX+JUX	12	nsubj	-
+11	5_배	나	5 배 나	NOUN	SN+NNG+JX	NX+JUX	12	nsubj	-
+12	늘	는	늘 는	VERB	VV+ETM	PX+ETX	13	acl	-
+13	등_재산_범죄	는	등 재산 범죄 는	NOUN	NNB+NNG+NNG+JX	NX+JUX	15	nsubj	-
+14	급격히	-	급격히	ADV	MAG	AX	15	advmod	-
+15	많	아_지_ㄴ_것_으로	많 아 지 ㄴ 것 으로	NOUN	VA+EC+VX+ETM+NNB+JKB	PX+PUX+ETX	16	obl	-
+16	나타나	았_다_.	나타나 았 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	그러나	-	그러나	SCONJ	MAJ	AX	8	mark	-
+2	살인_-_강도_등_'_강력_범죄_'	는	살인 - 강도 등 ' 강력 범죄 ' 는	NOUN	NNG+SS+NNG+NNB+SS+XR+NNG+SS+JX	NX+JUX	8	nsubj	-
+3	60	,	60 ,	NUM	SN+SP	NX+SYX	4	conj	-
+4	70_년대	와	70 년대 와	NOUN	SN+NNB+JKB	NX+JKX	5	obl	-
+5	마찬가지	로	마찬가지 로	NOUN	NNG+JKB	NX+JKX	8	obl	-
+6	전체_범죄_건	의	전체 범죄 건 의	NOUN	NNG+NNG+NNB+JKG	NX+JMX	7	nmod	-
+7	13_%_미만	으로	13 % 미만 으로	NOUN	SN+SW+NNG+JKB	NX+JKX	8	obl	-
+8	나타나	았_다_.	나타나 았 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	여성_범죄자	는	여성 범죄자 는	NOUN	NNG+NNG+JX	NX+JUX	4	nsubj	-
+2	대개	-	대개	ADV	MAG	AX	3	advmod	-
+3	30_~_40_대_기혼	-	30 ~ 40 대 기혼	NOUN	SN+SO+SN+NNB+NNG	NX	4	nmod	-
+4	여성	으로_,	여성 으로 ,	NOUN	NNG+JKB+SP	NX+JKX+SYX	10	advcl	-
+5	남성_범죄	가	남성 범죄 가	NOUN	NNG+NNG+JKS	NX+JKX	8	nsubj	-
+6	대부분_20_대_미혼자	에게_서	대부분 20 대 미혼자 에게 서	NOUN	NNG+SN+NNB+NNG+JKB+JKB	NX+JKX	8	obl	-
+7	많이	-	많이	ADV	MAG	AX	8	advmod	-
+8	일어나	는_것_과	일어나 는 것 과	NOUN	VV+ETM+NNB+JKB	PX+ETX	10	obl	-
+9	대조	를	대조 를	NOUN	NNG+JKO	NX+JKX	10	obj	-
+10	보이	ㄴ다고	보이 ㄴ다고	VERB	VV+EC	PX+ECX	11	ccomp	-
+11	지적_하	ㄴ	지적 하 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	12	acl	-
+12	심_교수	는_"	심 교수 는 "	PROPN	NNP+NNG+JX+SS	NX+JUX+SYX	19	nsubj	-
+13	가족_때문	에	가족 때문 에	NOUN	NNG+NNB+JKB	NX+JKX	15	obl	-
+14	죄	를	죄 를	NOUN	NNG+JKO	NX+JKX	15	obj	-
+15	짓	는	짓 는	VERB	VV+ETM	PX+ETX	16	acl	-
+16	여성	이	여성 이	NOUN	NNG+JKS	NX+JKX	17	nsubj	-
+17	많	다는	많 다는	ADJ	VA+ETM	PX+ETX	18	acl	-
+18	의미_"_이	라고	의미 " 이 라고	ADJ	NNG+SS+VCP+EC	CX+ECX	19	ccomp	-
+19	말_하	ㄴ다_.	말 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	폭력_-_살인_등	-	폭력 - 살인 등	NOUN	NNG+SS+NNG+NNB	NX	2	nmod	-
+2	강력_범죄	를	강력 범죄 를	NOUN	XR+NNG+JKO	NX+JKX	3	obj	-
+3	저지르	ㄴ	저지르 ㄴ	VERB	VV+ETM	PX+ETX	4	acl	-
+4	여성_들	-	여성 들	NOUN	NNG+XSN	NX	8	nsubj	-
+5	역시	-	역시	ADV	MAG	AX	8	advmod	-
+6	가족_-_가정_문제	의	가족 - 가정 문제 의	NOUN	NNG+SS+NNG+NNG+JKG	NX+JMX	8	nmod	-
+7	피해자_이	며	피해자 이 며	ADJ	NNG+VCP+EC	CX+ECX	8	advcl	-
+8	희생자_이	ㄴ	희생자 이 ㄴ	ADJ	NNG+VCP+ETM	CX+ETX	9	acl	-
+9	경우	가	경우 가	NOUN	NNG+JKS	NX+JKX	10	nsubj	-
+10	많	은_것_으로	많 은 것 으로	NOUN	VA+ETM+NNB+JKB	PX+ETX	11	obl	-
+11	나타나	았_다_.	나타나 았 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	여성	의	여성 의	NOUN	NNG+JKG	NX+JMX	2	nmod	-
+2	사회_참여	가	사회 참여 가	NOUN	NNG+NNG+JKS	NX+JKX	3	nsubj	-
+3	늘	고	늘 고	VERB	VV+EC	PX+ECX	5	advcl	-
+4	권리	가	권리 가	NOUN	NNG+JKS	NX+JKX	5	nsubj	-
+5	높	아_지_ㄴ다고_하_아서	높 아 지 ㄴ다고 하 아서	VERB	VA+EC+VX+EC+VV+EC	PX+PUX+ECX	7	advcl	-
+6	강력_범죄	가	강력 범죄 가	NOUN	XR+NNG+JKS	NX+JKX	7	nsubj	-
+7	늘	지_는_않_는다는_것_이_다_.	늘 지 는 않 는다는 것 이 다 .	VERB	VV+EC+JX+VX+ETM+NNB+VCP+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	생산자	의	생산자 의	NOUN	NNG+JKG	NX+JMX	2	nmod	-
+2	얼굴_사진	이	얼굴 사진 이	NOUN	NNG+NNG+JKS	NX+JKX	3	nsubj	-
+3	붙	어_있_는	붙 어 있 는	VERB	VV+EC+VX+ETM	PX+PUX+ETX	4	acl	-
+4	농산물	이	농산물 이	NOUN	NNG+JKS	NX+JKX	5	nsubj	-
+5	나오	고_있_다_.	나오 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	서울_신세계백화점	은	서울 신세계백화점 은	PROPN	NNP+NNP+JX	NX+JUX	12	nsubj	-
+2	17_일	부터	17 일 부터	NOUN	SN+NNB+JX	NX+JUX	12	obl	-
+3	이	-	이	DET	MM	MX	4	det	-
+4	백화점_지정_농장	에서	백화점 지정 농장 에서	NOUN	NNG+NNG+NNG+JKB	NX+JKX	5	obl	-
+5	재배_하	ㄴ	재배 하 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	6	acl	-
+6	수박	에	수박 에	NOUN	NNG+JKB	NX+JKX	9	obl	-
+7	재배_농민	의	재배 농민 의	NOUN	NNG+NNG+JKG	NX+JMX	8	nmod	-
+8	반_명함판_크기_컬러_사진	을	반 명함판 크기 컬러 사진 을	NOUN	NNG+NNG+NNG+NNG+NNG+JKO	NX+JKX	9	obj	-
+9	부착_하	아	부착 하 아	VERB	NNG+XSV+EC	PX+ECX	10	advcl	-
+10	판매	,	판매 ,	NOUN	NNG+SP	NX+SYX	12	obl	-
+11	눈길	을	눈길 을	NOUN	NNG+JKO	NX+JKX	12	obj	-
+12	끌	고_있_다_.	끌 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	생산지	와	생산지 와	CCONJ	NNG+JC	NX+JCX	3	conj	-
+2	재배_농민	-	재배 농민	NOUN	NNG+NNG	NX	3	nmod	-
+3	이름	을	이름 을	NOUN	NNG+JKO	NX+JKX	4	obj	-
+4	밝히	ㅁ_으로써	밝히 ㅁ 으로써	VERB	VV+ETN+JKB	PX+ECX	7	advcl	-
+5	상품	의	상품 의	NOUN	NNG+JKG	NX+JMX	6	nmod	-
+6	값어치	를	값어치 를	NOUN	NNG+JKO	NX+JKX	7	obj	-
+7	올리	려는	올리 려는	VERB	VV+ETM	PX+ETX	9	acl	-
+8	'_브랜드	-	' 브랜드	NOUN	SS+NNG	NX	9	nmod	-
+9	농산물_'_들	이	농산물 ' 들 이	NOUN	NNG+SS+XSN+JKS	NX+JKX	11	nsubj	-
+10	최근	-	최근	NOUN	NNG	NX	11	obl	-
+11	늘	고_있_으나	늘 고 있 으나	VERB	VV+EC+VX+EC	PX+PUX+ECX	20	advcl	-
+12	한_걸음	-	한 걸음	NOUN	MM+NNG	NX	13	obj	-
+13	나아가	아	나아가 아	VERB	VV+EC	PX+ECX	20	advcl	-
+14	제품	에	제품 에	NOUN	NNG+JKB	NX+JKX	18	obl	-
+15	직접	-	직접	ADV	MAG	AX	18	advmod	-
+16	생산자	의	생산자 의	NOUN	NNG+JKG	NX+JMX	17	nmod	-
+17	사진	을	사진 을	NOUN	NNG+JKO	NX+JKX	18	obj	-
+18	붙이	어	붙이 어	VERB	VV+EC	PX+ECX	20	advcl	-
+19	품질_보증	에	품질 보증 에	NOUN	NNG+NNG+JKB	NX+JKX	20	obl	-
+20	나서	ㄴ_것_.	나서 ㄴ 것 .	NOUN	VV+ETM+NNB+SF	PX+PUX+SYX	0	root	-
+
+1	농어민_영농_후계자_이	ㄴ	농어민 영농 후계자 이 ㄴ	ADJ	NNG+NNG+NNG+VCP+ETM	CX+ETX	2	acl	-
+2	문_씨	는	문 씨 는	PROPN	NNP+NNB+JX	NX+JUX	16	nsubj	-
+3	수박_농사_경력_10_년	의	수박 농사 경력 10 년 의	NOUN	NNG+NNG+NNG+SN+NNB+JKG	NX+JMX	4	nmod	-
+4	'_수박_박사_'	로_"	' 수박 박사 ' 로 "	NOUN	SS+NNG+NNG+SS+JKB+SS	NX+JKX+SYX	16	obl	-
+5	평기리	는	평기리 는	PROPN	NNP+JX	NX+JUX	13	nsubj	-
+6	일교차	가	일교차 가	NOUN	NNG+JKS	NX+JKX	7	nsubj	-
+7	뚜렷_하	고	뚜렷 하 고	ADJ	XR+XSA+EC	PX+ECX	9	advcl	-
+8	일조량	이	일조량 이	NOUN	NNG+JKS	NX+JKX	9	nsubj	-
+9	많	으며	많 으며	ADJ	VA+EC	PX+ECX	13	advcl	-
+10	토질	이	토질 이	NOUN	NNG+JKS	NX+JKX	13	nsubj	-
+11	사질_점토	로	사질 점토 로	NOUN	NNG+NNG+JKB	NX+JKX	13	obl	-
+12	수박_농사	에	수박 농사 에	NOUN	NNG+NNG+JKB	NX+JKX	13	obl	-
+13	적격_이	ㄴ	적격 이 ㄴ	ADJ	NNG+VCP+ETM	CX+ETX	14	acl	-
+14	곳	"	곳 "	NOUN	NNG+SS	NX+SYX	16	xcomp	-
+15	이라고	-	이라고	ADP	JKQ	AX	14	case	-
+16	말_하	ㄴ다_.	말 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	주서기	나	주서기 나	CCONJ	NNG+JC	NX+JCX	2	conj	-
+2	녹즙_기중_일부	가	녹즙 기중 일부 가	NOUN	NNG+NNG+NNG+JKS	NX+JKX	9	nsubj	-
+3	장기간_사용_하	ㄹ_경우	장기간 사용 하 ㄹ 경우	NOUN	NNG+NNG+XSV+ETM+NNG	PX+ECX	9	obl	-
+4	전동기	가	전동기 가	NOUN	NNG+JKS	NX+JKX	6	nsubj	-
+5	과열	로	과열 로	NOUN	NNG+JKB	NX+JKX	6	obl	-
+6	타	는	타 는	VERB	VV+ETM	PX+ETX	7	acl	-
+7	등	-	등	NOUN	NNB	MX	8	nmod	-
+8	문제	가	문제 가	NOUN	NNG+JKS	NX+JKX	9	nsubj	-
+9	있	는_것_으로	있 는 것 으로	NOUN	VV+ETM+NNB+JKB	PX+ETX	10	obl	-
+10	드러나	았_다_.	드러나 았 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	태훈산업	의	태훈산업 의	PROPN	NNP+JKG	NX+JMX	2	nmod	-
+2	'_뉴_그린_파워_'	는	' 뉴 그린 파워 ' 는	NOUN	SS+NNG+NNG+NNG+SS+JX	NX+JUX	8	nsubj	-
+3	실제_전력_사용량	이	실제 전력 사용량 이	NOUN	NNG+NNG+NNG+JKS	NX+JKX	6	nsubj	-
+4	표시_량	의	표시 량 의	NOUN	NNG+NNG+JKG	NX+JMX	5	nmod	-
+5	허용_오차_(_±_15_%_이내_)	를	허용 오차 ( ± 15 % 이내 ) 를	NOUN	NNG+NNG+SS+SW+SN+SW+NNG+SS+JKO	NX+JKX	6	obj	-
+6	벗어나	ㄴ	벗어나 ㄴ	VERB	VV+ETM	PX+ETX	7	acl	-
+7	마이너스_39_%	를	마이너스 39 % 를	NUM	NNG+SN+SW+JKO	NX+JKX	8	obj	-
+8	기록_하	았_고_,	기록 하 았 고 ,	VERB	NNG+XSV+EP+EC+SP	PX+EPX+ECX+SYX	12	advcl	-
+9	호산실업_'_엔젤_녹즙기_'	는	호산실업 ' 엔젤 녹즙기 ' 는	NOUN	NNP+SS+NNG+NNG+SS+JX	NX+JUX	12	nsubj	-
+10	소비_전력	이	소비 전력 이	NOUN	NNG+NNG+JKS	NX+JKX	12	nsubj	-
+11	아예	-	아예	ADV	MAG	AX	12	advmod	-
+12	표기_되	지_않_았_다고	표기 되 지 않 았 다고	VERB	NNG+XSV+EC+VX+EP+EC	PX+PUX+EPX+ECX	14	ccomp	-
+13	소보원	은	소보원 은	PROPN	NNP+JX	NX+JUX	14	nsubj	-
+14	밝히	었_다_.	밝히 었 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	이	-	이	DET	MM	MX	2	det	-
+2	밖	에	밖 에	NOUN	NNG+JKB	NX+JKX	11	obl	-
+3	수입품_이	ㄴ	수입품 이 ㄴ	ADJ	NNG+VCP+ETM	CX+ETX	4	acl	-
+4	일본_마쓰시타_주서기	는	일본 마쓰시타 주서기 는	NOUN	NNP+NNP+NNG+JX	NX+JUX	11	nsubj	-
+5	전원_전선	의	전원 전선 의	NOUN	NNG+NNG+JKG	NX+JMX	6	nmod	-
+6	길이	가	길이 가	NOUN	NNG+JKS	NX+JKX	9	nsubj	-
+7	98_㎝	로	98 ㎝ 로	NUM	SN+SW+JKB	NX+JKX	9	obl	-
+8	기준_(_1_백_40_㎝_)	보다	기준 ( 1 백 40 ㎝ ) 보다	NOUN	NNG+SS+SN+NR+SN+SW+SS+JKB	NX+JKX	9	obl	-
+9	짧	은_것_으로	짧 은 것 으로	NOUN	VA+ETM+NNB+JKB	PX+ETX	10	obl	-
+10	나타나	았_다고	나타나 았 다고	VERB	VV+EP+EC	PX+EPX+ECX	11	ccomp	-
+11	밝히	었_다_.	밝히 었 다 .	VERB	VV+EP+EF+SF	PX+EPX+EFX+SYX	0	root	-
+
+1	소보원	의	소보원 의	PROPN	NNP+JKG	NX+JMX	2	nmod	-
+2	시험	에서	시험 에서	NOUN	NNG+JKB	NX+JKX	5	obl	-
+3	아무렇	ㄴ	아무렇 ㄴ	ADJ	VA+ETM	PX+ETX	4	acl	-
+4	문제	가	문제 가	NOUN	NNG+JKS	NX+JKX	5	nsubj	-
+5	없	는	없 는	ADJ	VA+ETM	PX+ETX	6	acl	-
+6	제품	은	제품 은	NOUN	NNG+JX	NX+JUX	11	nsubj	-
+7	로마전기_'_그린_헬스_키퍼_'	,	로마전기 ' 그린 헬스 키퍼 ' ,	NOUN	NNP+SS+NNG+NNG+NNG+SS+SP	NX+SYX	10	conj	-
+8	삼성전자_J_-_510_W_모델	,	삼성전자 J - 510 W 모델 ,	NOUN	NNP+SL+SS+SN+SL+NNG+SP	NX+SYX	10	conj	-
+9	보국전자_BKJ_-_200_모델	,	보국전자 BKJ - 200 모델 ,	NOUN	NNP+SL+SS+SN+NNG+SP	NX+SYX	10	conj	-
+10	대우전자_KEJ_-_712_모델_등	-	대우전자 KEJ - 712 모델 등	NOUN	NNP+SL+SS+SN+NNG+NNB	NX	11	nmod	-
+11	8_개_이	었_다_.	8 개 이 었 다 .	ADJ	SN+NNB+VCP+EP+EF+SF	CX+EPX+EFX+SYX	0	root	-
+
+1	'_건강_백과_'_'_가정_의학_정보_'_등	-	' 건강 백과 ' ' 가정 의학 정보 ' 등	NOUN	SS+NNG+NNG+SS+SS+NNG+NNG+NNG+SS+NNB	NX	3	nmod	-
+2	종합_적_이	ㄴ	종합 적 이 ㄴ	ADJ	NNG+XSN+VCP+ETM	CX+ETX	3	acl	-
+3	건강_정보	에서부터_'	건강 정보 에서부터 '	NOUN	NNG+NNG+JKB+SS	NX+JKX	7	obl	-
+4	피부_미용_관리_'_'_치아_질환_및_관리_'_'_어린이_응급_처치_'_'	-	피부 미용 관리 ' ' 치아 질환 및 관리 ' ' 어린이 응급 처치 ' '	NOUN	NNG+NNG+NNG+SS+SS+NNG+NNG+MAJ+NNG+SS+SS+NNG+NNG+NNG+SS+SS	NX	5	conj	-
+5	전화_동의보감_'_'_건강_식생활_정보_'_등	-	전화 동의보감 ' ' 건강 식생활 정보 ' 등	NOUN	NNG+NNP+SS+SS+NNG+NNG+NNG+SS+NNB	NX	6	nmod	-
+6	전문_분야	에	전문 분야 에	NOUN	NNG+NNG+JKB	NX+JKX	7	obl	-
+7	이르	기_까지	이르 기 까지	VERB	VV+ETN+JX	PX+ECX	9	advcl	-
+8	종류	가	종류 가	NOUN	NNG+JKS	NX+JKX	9	nsubj	-
+9	다양_하	다_.	다양 하 다 .	ADJ	NNG+XSA+EF+SF	PX+EFX+SYX	0	root	-
+
+1	금연	,	금연 ,	NOUN	NNG+SP	NX+SYX	5	conj	-
+2	스트레스	,	스트레스 ,	NOUN	NNG+SP	NX+SYX	5	conj	-
+3	전화_민간_요법	,	전화 민간 요법 ,	NOUN	NNG+NNG+NNG+SP	NX+SYX	5	conj	-
+4	심리_분석	,	심리 분석 ,	NOUN	NNG+NNG+SP	NX+SYX	5	conj	-
+5	모자_보건_정보_서비스	도	모자 보건 정보 서비스 도	NOUN	NNG+NNG+NNG+NNG+JX	NX+JUX	6	nsubj	-
+6	있	다_.	있 다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	이_들_정보	는	이 들 정보 는	NOUN	NP+XSN+NNG+JX	NX+JUX	7	nsubj	-
+2	연세대_윤방부_교수_(_가정_의학_정보_)_유태종_박사_(_건강_식생활_정보_)_조윤희_전문의_(_임신_-_출산_-_불임_)_오성진_-_김석균_치과_의사_(_치아_질환_및_관리_)_김수홍_전문의_(_성형_외과_정보_)_등_전문가_들	이	연세대 윤방부 교수 ( 가정 의학 정보 ) 유태종 박사 ( 건강 식생활 정보 ) 조윤희 전문의 ( 임신 - 출산 - 불임 ) 오성진 - 김석균 치과 의사 ( 치아 질환 및 관리 ) 김수홍 전문의 ( 성형 외과 정보 ) 등 전문가 들 이	NOUN	NNP+NNP+NNG+SS+NNG+NNG+NNG+SS+NNP+NNG+SS+NNG+NNG+NNG+SS+NNP+NNG+SS+NNG+SS+NNG+SS+NNG+SS+NNP+SS+NNP+NNG+NNG+SS+NNG+NNG+MAJ+NNG+SS+NNP+NNG+SS+NNG+NNG+NNG+SS+NNB+NNG+XSN+JKS	NX+JKX	4	nsubj	-
+3	직접	-	직접	ADV	MAG	AX	4	advmod	-
+4	작성_하	거나	작성 하 거나	VERB	NNG+XSV+EC	PX+ECX	7	advcl	-
+5	정보_제공_회사	가	정보 제공 회사 가	NOUN	NNG+NNG+NNG+JKS	NX+JKX	7	nsubj	-
+6	자료	를	자료 를	NOUN	NNG+JKO	NX+JKX	7	obj	-
+7	모으	아_만들_기_도_하_ㄴ다_.	모으 아 만들 기 도 하 ㄴ다 .	VERB	VV+EC+VV+ETN+JX+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	이용료	는	이용료 는	NOUN	NNG+JX	NX+JUX	4	nsubj	-
+2	기본_통화료	에	기본 통화료 에	NOUN	NNG+NNG+JKB	NX+JKX	4	obl	-
+3	3_분_당_2_백_~_3_백_원	이	3 분 당 2 백 ~ 3 백 원 이	NOUN	SN+NNB+XSN+SN+NR+SO+SN+NR+NNG+JKS	NX+JKX	4	nsubj	-
+4	추가_되	ㄴ다_.	추가 되 ㄴ다 .	VERB	NNG+XSV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	한국_PC_통신	이	한국 PC 통신 이	NOUN	NNP+SL+NNG+JKS	NX+JKX	8	nsubj	-
+2	대한약사회	,	대한약사회 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+3	경희의료원	,	경희의료원 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+4	대웅제약	,	대웅제약 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+5	동아제약	,	동아제약 ,	PROPN	NNP+SP	NX+SYX	6	conj	-
+6	보령제약_등	의	보령제약 등 의	NOUN	NNP+NNB+JKG	NX+JMX	7	nmod	-
+7	도움	으로	도움 으로	NOUN	NNG+JKB	NX+JKX	8	obl	-
+8	운영_하	는	운영 하 는	VERB	NNG+XSV+ETM	PX+ETX	9	acl	-
+9	'_하이텔_건강_-_의료_정보_'	는	' 하이텔 건강 - 의료 정보 ' 는	NOUN	SS+NNP+NNG+SS+NNG+NNG+SS+JX	NX+JUX	12	nsubj	-
+10	경희의료원_의료진	과_의	경희의료원 의료진 과 의	NOUN	NNP+NNG+JKB+JKG	NX+JMX	11	nmod	-
+11	진료_상담	도	진료 상담 도	NOUN	NNG+NNG+JX	NX+JUX	12	obj	-
+12	하	ㄴ다_.	하 ㄴ다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	환부	에	환부 에	NOUN	NNG+JKB	NX+JKX	4	obl	-
+2	가느다랗	ㄴ	가느다랗 ㄴ	ADJ	VA+ETM	PX+ETX	3	acl	-
+3	주사_바늘	을	주사 바늘 을	NOUN	NNG+NNG+JKO	NX+JKX	4	obj	-
+4	꽂	아	꽂 아	VERB	VV+EC	PX+ECX	6	advcl	-
+5	종양_세포_조직	을	종양 세포 조직 을	NOUN	NNG+NNG+NNG+JKO	NX+JKX	6	obj	-
+6	추출	,	추출 ,	NOUN	NNG+SP	NX+SYX	7	advcl	-
+7	검사_하	는	검사 하 는	VERB	NNG+XSV+ETM	PX+ETX	8	acl	-
+8	세침_흡인_검사_(_세침_흡인_검사_)	가	세침 흡인 검사 ( 세침 흡인 검사 ) 가	NOUN	NNG+NNG+NNG+SS+NNG+NNG+NNG+SS+JKS	NX+JKX	12	nsubj	-
+9	최근_유방_암_등_종양_진단	에	최근 유방 암 등 종양 진단 에	NOUN	NNG+NNG+NNG+NNB+NNG+NNG+JKB	NX+JKX	12	obl	-
+10	폭	-	폭	ADV	MAG	AX	11	advmod	-
+11	넓	게	넓 게	ADJ	VA+EC	PX+ECX	12	advcl	-
+12	활용_되	고_있_다_.	활용 되 고 있 다 .	VERB	NNG+XSV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	세침_흡인_검사	는	세침 흡인 검사 는	NOUN	NNG+NNG+NNG+JX	NX+JUX	17	nsubj	-
+2	스웨덴	을	스웨덴 을	PROPN	NNP+JKO	NX+JKX	3	obj	-
+3	비롯	,	비롯 ,	NOUN	XR+SP	PX+SYX	4	nmod	-
+4	유럽_-_미국_등	에서_ㄴ	유럽 - 미국 등 에서 ㄴ	NOUN	NNP+SS+NNP+NNB+JKB+JX	NX+JKX	17	obl	-
+5	이미	-	이미	ADV	MAG	AX	6	advmod	-
+6	50_년대	부터	50 년대 부터	NOUN	SN+NNB+JX	NX+JUX	17	obl	-
+7	유방_암	,	유방 암 ,	NOUN	NNG+NNG+SP	NX+SYX	8	conj	-
+8	전립선_암_등	의	전립선 암 등 의	NOUN	NNG+NNG+NNB+JKG	NX+JMX	9	nmod	-
+9	진단	에	진단 에	NOUN	NNG+JKB	NX+JKX	11	obl	-
+10	흔히	-	흔히	ADV	MAG	AX	11	advmod	-
+11	사용_되	는	사용 되 는	VERB	NNG+XSV+ETM	PX+ETX	15	acl	-
+12	간편_하	고_도	간편 하 고 도	ADJ	XR+XSA+EC+JX	PX+ECX	14	advcl	-
+13	정확도	가	정확도 가	NOUN	NNG+JKS	NX+JKX	14	nsubj	-
+14	높	은	높 은	ADJ	VA+ETM	PX+ETX	15	acl	-
+15	종양_진단법	으로	종양 진단법 으로	NOUN	NNG+NNG+JKB	NX+JKX	17	obl	-
+16	평가	-	평가	NOUN	NNG	NX	17	obj	-
+17	받	고_있_다_.	받 고 있 다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	국내	에서_ㄴ	국내 에서 ㄴ	NOUN	NNG+JKB+JX	NX+JKX	6	obl	-
+2	최근	-	최근	NOUN	NNG	NX	3	obl	-
+3	들	어	들 어	VERB	VV+EC	PX+ECX	6	advcl	-
+4	국립의료원_서울대병원_백병원_순천향병원_등	-	국립의료원 서울대병원 백병원 순천향병원 등	NOUN	NNP+NNP+NNP+NNP+NNB	NX	5	nmod	-
+5	대학_병원	에서	대학 병원 에서	NOUN	NNG+NNG+JKB	NX+JKX	6	obl	-
+6	사용_하	고_있_으며	사용 하 고 있 으며	VERB	NNG+XSV+EC+VX+EC	PX+PUX+ECX	11	advcl	-
+7	서울중앙병원	의	서울중앙병원 의	PROPN	NNP+JKG	NX+JMX	8	nmod	-
+8	경우_외래	에	경우 외래 에	NOUN	NNG+NNG+JKB	NX+JKX	11	obl	-
+9	세침_흡인_검사실	을	세침 흡인 검사실 을	NOUN	NNG+NNG+NNG+JKO	NX+JKX	11	obj	-
+10	따로	-	따로	ADV	MAG	AX	11	advmod	-
+11	운영_하	고_있_다_.	운영 하 고 있 다 .	VERB	NNG+XSV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	특히	-	특히	ADV	MAG	AX	4	advmod	-
+2	검사_환자	의	검사 환자 의	NOUN	NNG+NNG+JKG	NX+JMX	3	nmod	-
+3	절반_가량	을	절반 가량 을	NOUN	NNG+NNG+JKO	NX+JKX	4	obj	-
+4	차지_하	는	차지 하 는	VERB	NNG+XSV+ETM	PX+ETX	5	acl	-
+5	유방_암	은	유방 암 은	NOUN	NNG+NNG+JX	NX+JUX	8	nsubj	-
+6	95_%	의	95 % 의	NUM	SN+SW+JKG	NX+JMX	7	nummod	-
+7	정확도	를	정확도 를	NOUN	NNG+JKO	NX+JKX	8	obj	-
+8	보이	ㄴ다는_것_이_다_.	보이 ㄴ다는 것 이 다 .	VERB	VV+ETM+NNB+VCP+EF+SF	PX+PUX+EFX+SYX	0	root	-
+

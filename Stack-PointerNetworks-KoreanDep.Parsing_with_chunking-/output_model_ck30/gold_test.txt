@@ -1,0 +1,67 @@
+1 따라서 - 따라서 SCONJ MAJ AX 7 mark -
+2 행동 의 행동 의 NOUN NNG+JKG NX+JMX 3 nmod -
+3 변화 를 변화 를 NOUN NNG+JKO NX+JKX 6 obj -
+4 의도_적_(_planned_) 으로 의도 적 ( planned ) 으로 NOUN NNG+XSN+SS+SL+SS+JKB NX+JKX 6 obl -
+5 변화 를 변화 를 NOUN NNG+JKO NX+JKX 6 obj -
+6 시키 어야만 시키 어야만 VERB VV+EC PX+ECX 7 advcl -
+7 학습_이 라고_하_ㄹ_수_있_는_것_이_다_. 학습 이 라고 하 ㄹ 수 있 는 것 이 다 . VERB NNG+VCP+EC+VV+ETM+NNB+VV+ETM+NNB+VCP+EF+SF CX+PUX+EFX+SYX 0 root -
+
+1 학습 으로 학습 으로 NOUN NNG+JKB NX+JKX 2 obl -
+2 간주_하 ㄹ_수_있_는 간주 하 ㄹ 수 있 는 VERB NNG+XSV+ETM+NNB+VV+ETM PX+PUX+ETX 3 acl -
+3 행동 은 행동 은 NOUN NNG+JX NX+JUX 6 nsubj -
+4 비교_적_지속_적_이 ㄴ 비교 적 지속 적 이 ㄴ ADJ NNG+XSN+NNG+XSN+VCP+ETM CX+ETX 5 acl -
+5 실체 를 실체 를 NOUN NNG+JKO NX+JKX 6 obj -
+6 갖추 어야_하_는_것_이_다_. 갖추 어야 하 는 것 이 다 . VERB VV+EC+VX+ETM+NNB+VCP+EF+SF PX+PUX+EFX+SYX 0 root -
+
+1 정서 나 정서 나 CCONJ NNG+JC NX+JCX 2 conj -
+2 태도_학습 의 태도 학습 의 NOUN NNG+NNG+JKG NX+JMX 3 nmod -
+3 성립_여부 는 성립 여부 는 NOUN NNG+NNG+JX NX+JUX 8 nsubj -
+4 관찰 이 관찰 이 NOUN NNG+JKS NX+JKX 5 nsubj -
+5 가능_하 ㄴ 가능 하 ㄴ ADJ NNG+XSA+ETM PX+ETX 6 acl -
+6 행동_변화 에 행동 변화 에 NOUN NNG+NNG+JKB NX+JKX 7 obl -
+7 의하 아 의하 아 VERB VV+EC PX+ECX 8 advcl -
+8 확인_되 ㄹ_수_있_는_것_이_라야_하_ㄴ다_. 확인 되 ㄹ 수 있 는 것 이 라야 하 ㄴ다 . VERB NNG+XSV+ETM+NNB+VV+ETM+NNB+VCP+EC+VX+EF+SF PX+PUX+EFX+SYX 0 root -
+
+1 이 처럼 이 처럼 PRON NP+JKB NX+JKX 6 obl -
+2 여러분_들 과 여러분 들 과 PRON NP+XSN+JKB NX+JKX 4 obl -
+3 마주 - 마주 ADV MAG AX 4 advmod -
+4 앉 아 앉 아 VERB VV+EC PX+ECX 6 advcl -
+5 얘기 를 얘기 를 NOUN NNG+JKO NX+JKX 6 obj -
+6 나누 게_되_어 나누 게 되 어 VERB VV+EC+VV+EC PX+PUX+ECX 8 advcl -
+7 무척 - 무척 ADV MAG AX 8 advmod -
+8 기쁘 구나_. 기쁘 구나 . ADJ VA+EF+SF PX+EFX+SYX 0 root -
+
+1 잠깐 - 잠깐 ADV MAG AX 5 advmod -
+2 왜 - 왜 ADV MAG AX 5 advmod -
+3 독자_들 에게 독자 들 에게 NOUN NNG+XSN+JKB NX+JKX 5 obl -
+4 처음 부터 처음 부터 NOUN NNG+JX NX+JUX 5 obl -
+5 반말_이 죠_? 반말 이 죠 ? ADJ NNG+VCP+EF+SF CX+EFX+SYX 0 root -
+
+1 어린이 의 어린이 의 NOUN NNG+JKG NX+JMX 2 nmod -
+2 인격 을 인격 을 NOUN NNG+JKO NX+JKX 5 obj -
+3 이 처럼 이 처럼 PRON NP+JKB NX+JKX 5 obl -
+4 첫_회 부터 첫 회 부터 NOUN MM+NNB+JX NX+JUX 5 obl -
+5 무시_하 기_이_ㄴ가요_? 무시 하 기 이 ㄴ가요 ? ADJ NNG+XSV+ETN+VCP+EF+SF PX+PUX+EFX+SYX 0 root -
+
+1 반대_하 는 반대 하 는 VERB NNG+XSV+ETM PX+ETX 2 acl -
+2 사람 - 사람 NOUN NNG NX 3 nsubj -
+3 손들 어_보_아_! 손들 어 보 아 ! VERB VV+EC+VX+EF+SF PX+PUX+EFX+SYX 0 root -
+
+1 반대_하 는 반대 하 는 VERB NNG+XSV+ETM PX+ETX 2 acl -
+2 사람 - 사람 NOUN NNG NX 3 nsubj -
+3 없 으니 없 으니 ADJ VA+EC PX+ECX 7 advcl -
+4 그대로 - 그대로 ADV MAG AX 7 advmod -
+5 존대말 - 존대말 NOUN NNG NX 6 obl -
+6 같 은_것_ㄴ 같 은 것 ㄴ NOUN VA+ETM+NNB+JX PX+ETX 7 nsubj -
+7 빼 기_로 빼 기 로 VERB VV+ETN+JKB PX+ETX 0 root -
+8 하 자꾸나_. 하 자꾸나 . VERB VV+EF+SF PX+EFX+SYX 7 aux -
+
+1 그럼 - 그럼 SCONJ MAJ AX 4 mark -
+2 슬슬 - 슬슬 ADV MAG AX 4 advmod -
+3 이야기_보따리 를 이야기 보따리 를 NOUN NNG+NNG+JKO NX+JKX 4 obj -
+4 풀 어_보_ㄹ까_? 풀 어 보 ㄹ까 ? VERB VV+EC+VX+EF+SF PX+PUX+EFX+SYX 0 root -
+
+1 세계 가 세계 가 NOUN NNG+JKS NX+JKX 3 nsubj -
+2 그만큼 - 그만큼 ADV MAG AX 3 advmod -
+3 좁 아_지_ㄴ_거_이_야_. 좁 아 지 ㄴ 거 이 야 . ADJ VA+EC+VX+ETM+NNB+VCP+EF+SF PX+PUX+EFX+SYX 0 root -
+

@@ -1,0 +1,101 @@
+1	사실	-	사실	ADV	MAG	AX	12	advmod	-
+2	그곳	에_는	그곳 에 는	PRON	NP+JKB+JX	NX+JKX	12	obl	-
+3	경주	와_달리	경주 와 달리	ADV	NNP+JKB+MAG	NX+JKX	12	advmod	-
+4	경포대	-	경포대	PROPN	NNP	NX	5	obl	-
+5	같	은	같 은	ADJ	VA+ETM	PX+ETX	6	acl	-
+6	유형_문화재	보다_는	유형 문화재 보다 는	NOUN	NNG+NNG+JKB+JX	NX+JKX	12	obl	-
+7	굿	이나	굿 이나	CCONJ	NNG+JC	NX+JCX	8	conj	-
+8	탈놀이	-	탈놀이	NOUN	NNG	NX	9	obl	-
+9	같	은	같 은	ADJ	VA+ETM	PX+ETX	10	acl	-
+10	무형_문화재	가	무형 문화재 가	NOUN	NNG+NNG+JKS	NX+JKX	12	nsubj	-
+11	훨씬	-	훨씬	ADV	MAG	AX	12	advmod	-
+12	풍부_하	다_.	풍부 하 다 .	ADJ	XR+XSA+EF+SF	PX+EFX+SYX	0	root	-
+
+1	아니	ㄴ_것_이_아니_라	아니 ㄴ 것 이 아니 라	ADJ	VCN+ETM+NNB+JKC+VCN+EC	PX+PUX+ECX	13	advcl	-
+2	강릉_단오_제	는	강릉 단오 제 는	NOUN	NNP+NNG+XSN+JX	NX+JUX	13	nsubj	-
+3	지금	-	지금	ADV	MAG	AX	7	advmod	-
+4	전국	에서	전국 에서	NOUN	NNG+JKB	NX+JKX	7	obl	-
+5	가장	-	가장	ADV	MAG	AX	6	advmod	-
+6	성대_하	게	성대 하 게	ADJ	XR+XSA+EC	PX+ECX	7	advcl	-
+7	치르	어_지_는	치르 어 지 는	VERB	VV+EC+VX+ETM	PX+PUX+ETX	8	acl	-
+8	지역_축제_가운데_하나	로서	지역 축제 가운데 하나 로서	NUM	NNG+NNG+NNG+NR+JKB	NX+JKX	13	obl	-
+9	방방곡곡	에서	방방곡곡 에서	NOUN	NNG+JKB	NX+JKX	13	obl	-
+10	많	은	많 은	ADJ	VA+ETM	PX+ETX	11	acl	-
+11	사람_들	이	사람 들 이	NOUN	NNG+XSN+JKS	NX+JKX	13	nsubj	-
+12	구경	-	구경	NOUN	NNG	NX	13	obj	-
+13	오	ㄴ다_.	오 ㄴ다 .	VERB	VV+EF+SF	PX+EFX+SYX	0	root	-
+
+1	오랜	-	오랜	ADJ	MM	MX	2	amod	-
+2	전통	을	전통 을	NOUN	NNG+JKO	NX+JKX	4	obj	-
+3	굳건_하	게	굳건 하 게	ADJ	XR+XSA+EC	PX+ECX	4	advcl	-
+4	계승_하	면서	계승 하 면서	VERB	NNG+XSV+EC	PX+ECX	5	advcl	-
+5	키우	어_오_ㄴ	키우 어 오 ㄴ	VERB	VV+EC+VX+ETM	PX+PUX+ETX	7	acl	-
+6	이	-	이	DET	MM	MX	7	det	-
+7	축제	는	축제 는	NOUN	NNG+JX	NX+JUX	14	nsubj	-
+8	지방_자치_시대	에	지방 자치 시대 에	NOUN	NNG+NNG+NNG+JKB	NX+JKX	9	obl	-
+9	들	어서	들 어서	VERB	VV+EC	PX+ECX	10	advcl	-
+10	급조_되	ㄴ	급조 되 ㄴ	VERB	NNG+XSV+ETM	PX+ETX	12	acl	-
+11	다른	-	다른	ADJ	MM	MX	12	amod	-
+12	지역_이벤트_들	과_는	지역 이벤트 들 과 는	NOUN	NNG+NNG+XSN+JKB+JX	NX+JKX	14	obl	-
+13	격	이	격 이	NOUN	NNG+JKS	NX+JKX	14	nsubj	-
+14	다르	다_.	다르 다 .	ADJ	VA+EF+SF	PX+EFX+SYX	0	root	-
+
+1	그리고	-	그리고	SCONJ	MAJ	AX	6	mark	-
+2	그것	이	그것 이	PRON	NP+JKS	NX+JKX	6	nsubj	-
+3	강릉_시민_들	의	강릉 시민 들 의	NOUN	NNP+NNG+XSN+JKG	NX+JMX	4	nmod	-
+4	자부심	을	자부심 을	NOUN	NNG+JKO	NX+JKX	6	obj	-
+5	크	게	크 게	ADJ	VA+EC	PX+ECX	6	advcl	-
+6	드높이	어_주_ㄴ다_.	드높이 어 주 ㄴ다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	그러나	-	그러나	SCONJ	MAJ	AX	5	mark	-
+2	자세히	-	자세히	ADV	MAG	AX	3	advmod	-
+3	들여다보	면	들여다보 면	VERB	VV+EC	PX+ECX	5	advcl	-
+4	문제	가	문제 가	NOUN	NNG+JKS	NX+JKX	5	nsubj	-
+5	없	는_것_은_아니_다_.	없 는 것 은 아니 다 .	ADJ	VA+ETM+NNB+JX+VCN+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	가장	-	가장	ADV	MAG	AX	2	advmod	-
+2	심각_하	ㄴ_것_은	심각 하 ㄴ 것 은	NOUN	XR+XSA+ETM+NNB+JX	PX+ETX	11	nsubj	-
+3	그	-	그	DET	MM	MX	4	det	-
+4	제의	의	제의 의	NOUN	NNG+JKG	NX+JMX	6	nmod	-
+5	다양_하	ㄴ	다양 하 ㄴ	ADJ	XR+XSA+ETM	PX+ETX	6	acl	-
+6	상징_들	이	상징 들 이	NOUN	NNG+XSN+JKS	NX+JKX	11	nsubj	-
+7	강릉	의	강릉 의	PROPN	NNP+JKG	NX+JMX	9	nmod	-
+8	젊	은	젊 은	ADJ	VA+ETM	PX+ETX	9	acl	-
+9	세대	에게	세대 에게	NOUN	NNG+JKB	NX+JKX	11	obl	-
+10	호소력	을	호소력 을	NOUN	NNG+JKO	NX+JKX	11	obj	-
+11	갖	지_못하_ㄴ다는_것_이_다_.	갖 지 못하 ㄴ다는 것 이 다 .	VERB	VV+EC+VX+ETM+NNB+VCP+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	그래서	-	그래서	SCONJ	MAJ	AX	8	mark	-
+2	젊은이_들	은	젊은이 들 은	NOUN	NNG+XSN+JX	NX+JUX	8	nsubj	-
+3	사흘_밤	을	사흘 밤 을	NOUN	NNG+NNG+JKO	NX+JKX	4	obj	-
+4	지새우	며	지새우 며	VERB	VV+EC	PX+ECX	6	advcl	-
+5	굿	을	굿 을	NOUN	NNG+JKO	NX+JKX	6	obj	-
+6	즐기	는	즐기 는	VERB	VV+ETM	PX+ETX	7	acl	-
+7	할머니_들	과	할머니 들 과	NOUN	NNG+XSN+JKB	NX+JKX	8	obl	-
+8	공감_하	ㄹ_수_없_다_.	공감 하 ㄹ 수 없 다 .	VERB	NNG+XSV+ETM+NNB+VA+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	사실	-	사실	ADV	MAG	AX	12	advmod	-
+2	평소	에	평소 에	NOUN	NNG+JKB	NX+JKX	12	obl	-
+3	그_들	은	그 들 은	PRON	NP+XSN+JX	NX+JUX	12	nsubj	-
+4	대개	-	대개	ADV	MAG	AX	12	advmod	-
+5	시내	에	시내 에	NOUN	NNG+JKB	NX+JKX	6	obl	-
+6	있	는	있 는	VERB	VV+ETM	PX+ETX	7	acl	-
+7	'_대학로_'	와_"	' 대학로 ' 와 "	CCONJ	SS+NNP+SS+JC+SS	NX+JCX+SYX	9	conj	-
+8	문화	의	문화 의	NOUN	NNG+JKG	NX+JMX	9	nmod	-
+9	거리	"_에서	거리 " 에서	NOUN	NNG+SS+JKB	NX+SYX+JKX	12	obl	-
+10	그_들_나름	의	그 들 나름 의	NOUN	NP+XSN+NNB+JKG	NX+JMX	11	nmod	-
+11	유흥_공간	을	유흥 공간 을	NOUN	NNG+NNG+JKO	NX+JKX	12	obj	-
+12	만들	어_내_ㄴ다_.	만들 어 내 ㄴ다 .	VERB	VV+EC+VX+EF+SF	PX+PUX+EFX+SYX	0	root	-
+
+1	그러나	-	그러나	SCONJ	MAJ	AX	4	mark	-
+2	그것	은	그것 은	PRON	NP+JX	NX+JUX	4	nsubj	-
+3	강릉_문화	가	강릉 문화 가	NOUN	NNP+NNG+JKC	NX+JKX	4	xcomp	-
+4	아니	다_.	아니 다 .	ADJ	VCN+EF+SF	PX+EFX+SYX	0	root	-
+
+1	그런	-	그런	DET	MM	MX	2	det	-
+2	눈	으로	눈 으로	NOUN	NNG+JKB	NX+JKX	3	obl	-
+3	돌아보	면	돌아보 면	VERB	VV+EC	PX+ECX	6	advcl	-
+4	어느	-	어느	DET	MM	MX	5	det	-
+5	지역_이	든	지역 이 든	ADJ	NNG+VCP+EC	CX+ECX	6	advcl	-
+6	마찬가지_이	ㄹ_것_이_다_.	마찬가지 이 ㄹ 것 이 다 .	ADJ	NNG+VCP+ETM+NNB+VCP+EF+SF	CX+PUX+EFX+SYX	0	root	-
+
