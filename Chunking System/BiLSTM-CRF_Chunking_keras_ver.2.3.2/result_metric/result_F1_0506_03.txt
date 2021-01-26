@@ -1,0 +1,14 @@
+[ eval_schema ] : ent_type
+precision:  0.9754685619304179
+recall:  0.9707392197125256
+F1:  0.9730981446010464 
+
+[ eval_schema ] : strict
+precision:  0.9726027397260274
+recall:  0.967887291809263
+F1:  0.9702392864290001 
+
+[ eval_schema ] : exact
+precision:  0.9769014730326131
+recall:  0.9721651836641569
+F1:  0.9745275736870694 

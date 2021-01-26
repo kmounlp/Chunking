@@ -1,0 +1,9 @@
+* remove annotations
+* modulization
+* evaluation in chunk
+	- in chunk level
+	- confusion matrix
+
+* embedding
+	- fast text
+	- glove
